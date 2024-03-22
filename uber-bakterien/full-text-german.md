@@ -8,11 +8,11 @@
 
 ### Mit Holzschnitten.
 
-### Berlin, 1872
+### Berlin, 1872.
 
-#### C. G. Lüderitz'sche Verlagsbuchhandlung
+#### C. G. Lüderitz'sche Verlagsbuchhandlung.
 
-#### Carl Habel
+#### Carl Habel.
 
 ---
 
