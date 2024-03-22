@@ -7,7 +7,7 @@ English - PDF
 
 # Über Bakterien. (1889)
 
-[German - Plain Text](uber-bakterien-1889/full-text-german.md)  
+[German - Plain Text](full-text-german-1889.md)  
 German - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom  
 English - Plain Text  
 English - PDF  
