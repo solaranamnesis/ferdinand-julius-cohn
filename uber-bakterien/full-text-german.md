@@ -10,9 +10,15 @@
 
 #### _Professor in the University of Pennsylvania_
 
-### New York 1889
+### New York, 1889
 
 #### Henry Holt and Company
+
+### Berlin, 1872
+
+#### C. G. Lüderitz'sche Verlagsbuchhandlung
+
+#### Carl Habel
 
 ---
 
