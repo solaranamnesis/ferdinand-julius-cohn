@@ -1,6 +1,6 @@
 # Über Bakterien
 
-## Die kleinsten Lebenden Wesen.
+## Die kleinsten Lebenden Wesen
 
 ### Von Dr. Ferdinand Cohn
 
@@ -10,7 +10,7 @@
 
 #### _Professor in the University of Pennsylvania_
 
-### New York 1889.
+### New York 1889
 
 #### Henry Holt and Company
 
