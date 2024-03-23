@@ -110,212 +110,29 @@ Endlich ersann Pasteur 1862 ein noch einfacheres Verfahren, er bog den in eine S
 
 Das Ergebniß aller drei Verfahren ist immer das nämliche: die im Kölbchen eingeschlossenen Stoffe geraten niemals in Fäulniß; gleichwohl fehlt es ihnen nicht an Luft; nur die Bakterien finden keinen Eingang. Aus diesen und vielen ähnlichen Versuchen läßt sich mit der größten Sicherheit schließen: daß wo auch alle übrigen Bedingungen der Fäulniß gegeben sind, diese doch nicht stattfindet, wenn keine Bakterien anwesend sind; dagegen beginnt die Fäulniß augenblicklich, sobald Bakterien absichtlich oder unabsichtlich zugesetzt werden, sei es auch in geringster Zahl; die Fäulniß schreitet in demselben Maße fort, in dem sich die Bakterien vermehren; alle Umstände, welche die Vermehrung der Bakterien begünstigen, beschleunigen die Fäulniß; alle Bedingungen, welche deren Entwickelung aufhalten, verlangsamen die Fäulniß; alle Mittel, welche Bakterien tödten, heben auch die Fäulniß auf; umgekehrt hört die Vermehrung der Bakterien auf, sobald alle fäulnißfähige Substanz zerstört ist.
 
-Also sind die Bacterien nicht die zufälligen Begleiter, son-
-dern sie sind die Ursache der Fäulniß; Fäulniß ist ein von
-Bacterien erregter chemischer Proceß. Nicht der Tod,
-wie man gewöhnlich glaubt, erzeugt die Fäulniß, sondern das
-Leben jener unsichtbaren Wesen.
-Es scheint beinahe selbstverständlich, daß jeder Körper, vou
-dem das Leben gewichen, der Verwesung auheimfällt; und doch
-steht fest: ohne die Lebensthätigkeit der Bacterien würden
-alle Geschöpfe auch nach ihrem Tode Form und Mischung beibe-
-halten, so gut wie die ägyptischen Mumien, die in den dänischen
-Torfmooren versunkenen Recken, oder wie die Mammuth- und
-Rhinozerosleichen, die seit ungezählten Jahrtausenden im sibiri-
-schen Eise eingefroren, sich mit Haut und Haar unversehrt er-
-halten haben. Sobald das Eis schmilzt, verfallen auch diese
-letzten Ueberbleibsel einer ausgestorbenen Tierwelt in wenig
-Tagen der Verwesung: die Ursache ist leicht begreiflich: die Bac-
-2 (717)
-VII. 165.
+Also sind die Bakterien nicht die zufälligen Begleiter, sondern sie sind die Ursache der Fäulniß; Fäulniß ist ein von Bakterien erregter chemischer Proceß. Nicht der Tod, wie man gewöhnlich glaubt, erzeugt die Fäulniß, sondern das Leben jener unsichtbaren Wesen.
 
+Es scheint beinahe selbstverständlich, daß jeder Körper, von dem das Leben gewichen, der Verwesung auheimfällt; und doch steht fest: ohne die Lebenstätigkeit der Bakterien würden alle Geschöpfe auch nach ihrem Tode Form und Mischung beibehalten, so gut wie die ägyptischen Mumien, die in den dänischen Torfmooren versunkenen Recken, oder wie die Mammuth- und Rhinozerosleichen, die seit ungezählten Jahrtausenden im sibirischen Eise eingefroren, sich mit Haut und Haar unversehrt erhalten haben. Sobald das Eis schmilzt, verfallen auch diese letzten Überbleibsel einer ausgestorbenen Tierwelt in wenig Tagen der Verwesung: die Ursache ist leicht begreiflich: die Bakterien stellen in der Nähe des Gefrierpunktes ihre Lebenstätigkeit ein, während sie bei etwas höherer Temperatur sich sofort vermehren und Fäulniß erregen. Im Torfmoor und in den Mumien ist es die chemische Mischung, welche die Entwicklung der Bakterien verhindert. Wenn sich in einem nach der Methode von Spallanzani, Schröder und Dusch, oder Pasteur eingerichteten Kölbchen ein Stückchen Fleisch oder ein Pflanzenstoff Jahrelang unverändert erhalten hat, so braucht man nur einen einzigen Bakterienhaltigen Wassertropfen zuzusetzen, um sofort die Fäulniß einzuleiten.
 
-### 0019
+Die gesammte Naturordnung ist darauf gegründet, daß die Körper, in denen das Leben erloschen, der Auflösung anheimfallen, damit ihre Stoffe wieder neuem Leben dienstbar werden können. Denn die Masse des Stoffes, welche sich zu lebenden Wesen gestalten kann, ist auf der Erde beschränkt; immer die nämlichen Stoffteilchen müssen in ewigem Kreislauf von einem abgestorbenen in einen lebenden Körper übergehen; ist auch die Seelenwanderung eine Mythe, so ist die Stoffwanderung eine naturwissenschaftliche Tatsache. Gäbe es aber keine Bakterien, so würden die in einer Generation der Tiere und Pflanzen verkörperten Stoffe auch nach deren Ableben gebunden bleiben, wie es die chemischen Verbindungen in den Felsgesteinen sind; neues Leben könnte sich nicht entwickeln, weil es ihm an Körperstoff fehlen müßte. Indem die Bakterien in rascher Fäulniß jeden abgestorbenen Leib zu Erde werden lassen, machen sie allein das Hervorsprießen neuen Lebens, und damit die Fortdauer der lebendigen Schöpfung möglich.
 
-18
-terien stellen in der Nähe des Gefrierpunktes ihre Lebensthätig-
-keit ein, während sie bei etwas höherer Temperatur sich sofort
-vermehren und Fäulniß erregen. Im Torfmoor und in den Mu-
-mien ist es die chemische Mischung, welche die Entwicklung der
-Bacterien verhindert. Wenn sich in einem nach der Methode
-von Spallanzani, Schröder und Dusch, oder Pasteur eingerichteten
-Kölbchen ein Stückchen Fleisch oder ein Pflanzenstoff Jahrelang
-unverändert erhalten hat, so braucht man nur einen einzigen
-Bacterienhaltigen Wassertropfen zuzusetzen, um sofort die Fäul-
-niß einzuleiten.
-Die gesammte Naturordnung ist darauf gegründet, daß die
-Körper, in denen das Leben erloschen, der Auflösung anheim-
-fallen, damit ihre Stoffe wieder neuem Leben dienstbar werden
-können. Denn die Masse des Stoffes, welche sich zu lebenden
-Wesen gestalten kann, ist auf der Erde beschränkt; immer die
-nämlichen Stofftheilchen müssen in ewigem Kreislauf von einem
-abgestorbenen in einen lebenden Körper übergehen; ist auch die
-Seelenwanderung eine Mythe, so ist die Stoffwanderung eine
-naturwissenschaftliche Thatsache. Gäbe es aber keine Bacterien,
-so würden die in einer Generation der Tiere und Pflanzen ver-
-körperten Stoffe auch nach deren Ableben gebunden bleiben, wie
-es die chemischen Verbindungen in den Felsgesteinen find; neues
-Leben könnte sich nicht entwickeln, weil es ihm an Körperstoff feh-
-len müßte. Indem die Bacterien in rascher Fäulniß jeden ab-
-gestorbenen Leib zu Erde werden lassen, machen sie allein das
-Hervorsprießen neuen Lebens, und damit die Fortdauer der leben-
-digen Schöpfung möglich.
-Die wunderbare Thatsache, daß die Fäulniß eine Arbeits-
-leistung der Bacterien ist, steht nicht vereinzelt da; es giebt
-eine ganze Reihe von chemischen Veränderungen, welche
-durch Bacterien und ähnliche mikroskopische Wesen erregt werden;
-(718)
+Die wunderbare Tatsache, daß die Fäulniß eine Arbeitsleistung der Bakterien ist, steht nicht vereinzelt da; es giebt eine ganze Reihe von chemischen Veränderungen, welche durch Bakterien und ähnliche mikroskopische Wesen erregt werden; man bezeichnet diese Vorgänge gewöhnlich als Gährungserscheinungen, und die Wesen, welche die Ursachen derselben sind, als Fermentpilze. Die Bakterien, und zwar die von den Naturforschern als _Bacterium Termo_ bezeichnete Art (Fig. 2), sind das Ferment der Fäulniß.
 
+Dasjenige Ferment, welches am längsten bekannt und am genauesten untersucht worden, ist der Alkoholhefepilz (_Sacharomyces cerevisiae_); seine ovalen Kügelchen wurden schon von Leeuwenhoek im Bier beobachtet, aber erst 1837 von Cagniard Latour und fast gleichzeitig von Schwann als die eigentlichen Erreger jener Gährung erkannt, welche den Zucker in Alkohol und Kohlensäure umwandelt, während nebenbei noch kleine Mengen von Glycerin und Bernsteinsäure gebildet werden. Die genauste Erkenntniß über das Verhalten der Hefepilze bei der Alcoholgährung verdanken wir Pasteur, dem wir den Ruhm eines der genialsten und exactesten Forscher des heutigen Frankreichs nicht schmälern wollen, wenn derselbe sich auch von der Geschmacklosigkeit nicht fern gehalten hat, die Bitterkeit nationaler Gereiztheit auf das neutrale Gebiet der Wissenschaft zu übertragen. Pasteur zeigte, daß der Hefepilz aus denselben Stoffen besteht, wie alle anderen Pflanzen, aus Kohle, Sauerstoff, Wasserstoff, Stickstoff und einer Anzahl Mineralstoffen, unter denen Kali und Phosphorsäure die wichtigsten sind; soll der Hefepilz wachsen und sich vermehren, so muß er diese Stoffe sämmtlich als Nahrung empfangen und sie durch seine Lebenstätigkeit zum Bau seiner Zellen verwenden. Der Hefepilz findet die Gesammtheit seiner Nährstoffe nicht in reinem Zucker, wohl aber im ausgepreßten Traubensaft, in der Bierwürze und andern gährungsfähigen Flüssigkeiten; er vermehrt sich nur, so lange er dieselben findet. Sauerstoff und Wasserstoff werden ihm im Wasser dargeboten; auch die Mineralstoffe müssen in der Lösung vorhanden sein; sie lassen sich später wieder in der Hefeasche nachweisen. Vom Stickstoff glaubte man früher, daß ihn der Hefepilz nur aus den eiweißartigen Verbindungen aufnehmen könne, welche im Traubensafte wie in der Bierwürze nie fehlen; Pasteur zeigte, daß der Hefepilz seinen Stickstoffbedarf auch durch Aufnahme von Ammoniak befriedigen kann, welches aus Wasserstoff und Stickstoff besteht. Die Kohle endlich entnimmt der Hefepilz unmittelbar und ausschließlich aus dem Zucker; er bildet seine Zellhaut und seinen Fettgehalt durch geringe Umwandlungen des Zuckers; vermutlich erzeugt er auch die Eiweißstoffe, die in seinen Zellen vorhanden sind, durch Verbindung des Zucker mit Ammoniak. Indem nun der Hefepilz den Zucker verbraucht, um daraus seine eigenen Zellen zu bilden, zu ernähren und zu vermehren, bewirkt er ein Zerfallen des Zuckers und eine neue Anordnung seiner feinsten Stoffteilchen; er verursacht dadurch eben jene Veränderung, die als Alkoholgährung bezeichnet wird. Ist die Gährung vorüber, so ist der Zucker verschwunden; aber auch der Hefepilz kann sich nun nicht weiter vermehren, er setzt sich am Boden der ausgegohrenen Flüssigkeit als Unterhefe ab, oder wird mit der stürmisch entweichenden Kohlensäure als Schaum oder Oberhefe ausgeworfen.
 
-### 0020
+Andere Gährungen werden durch Bakterien oder durch mikroskopische Wesen erregt, die den Bakterien verwandt, nur durch Spaltung oder Teilung ihrer Zellen sich vermehren, und deshalb mit den Bakterien in der Klasse der Spaltpilze (_Schizomyceten_) vereinigt werden. Wenn Bier oder Wein an der Luft mit der Zeit sauer werden, so bildet sich Essigsäure; durch Bakterien, welche in lange Ketten gereiht, oder zu schleimigen Häuten verbunden sind, wird der Alkohol der geistigen Flüssigkeit in Essigsäure verwandelt. Pasteur hat gezeigt, daß alle Krankheiten des Weines von mikroskopischen Fermentpilzen verursacht werden, deren Keime während der Weinbereitung in die Flüssigkeit gelangen und sich darin mehr oder weniger rasch vermehren; ihm gebührt das Verdienst, diese Entdeckung zugleich praktisch zum größten Vorteil des Weinbaues verwerthet zu haben; wenn der Wein in den Flaschen auf 50-70° erwärmt wird, so wird nicht blos das Essigferment, sondern auch die übrigen Spaltpilze getödtet, die den Wein kahmig, schleimig, oder bitter machen; der Wein wird haltbar, er kann ausgeführt werden, und gewinnt an Feuer, Bouquet und Werth.
 
-19
-man bezeichnet diese Vorgänge gewöhnlich als Gährungserschei-
-nungen, und die Wesen, welche die Ursachen derselben sind, als
-Fermentpilze. Die Bacterien, und zwar die von den Naturfor-
-schern als Lacterium Terme bezeichnete Art (Fig. 2), sind das
-Ferment der Fäulniß.
-Dasjenige Ferment, welches am längsten bekannt und am
-genauesten untersucht worden, ist der Alkoholhefepilz (Sacharo-
-myces cerevisiae); seine ovalen Kügelchen wurden schon von
-Leeuwenhoek im Bier beobachtet, aber erst 1837 von Cagniard
-Latour und fast gleichzeitig von Schwann als die eigentlichen Er-
-reger jener Gährung erkannt, welche den Zucker in Alkohol und
-Kohlensäure umwandelt, während nebenbei noch kleine Mengen von
-Glycerin und Bernsteinsäure gebildet werden. Die genauste Erkennt-
-niß über das Verhalten der Hefepilze bei der Alcoholgährung
-verdanken wir Pasteur, dem wir den Ruhm eines der genialsten
-und exactesten Forscher des heutigen Frankreichs nicht schmälern
-wollen, wenn derselbe sich auch von der Geschmacklosigkeit nicht
-fern gehalten hat, die Bitterkeit nationaler Gereiztheit auf das
-neutrale Gebiet der Wissenschaft zu übertragen. Pasteur zeigte, daß
-der Hefepilz aus denselben Stoffen besteht, wie alle anderen Pflan-
-zen, aus Kohle, Sauerstoff, Wasserstoff, Stickstoff und einer An-
-zahl Mineralstoffen, unter denen Kali und Phosphorsäure
-die wichtigsten find; soll der Hefepilz wachsen und sich ver-
-mehren, so muß er diese Stoffe sämmtlich als Nahrung em-
-pfangen und sie durch seine Lebensthätigkeit zum Bau seiner
-Zellen verwenden. Der Hefepilz findet die Gesammtheit seiner Nähr-
-stoffe nicht in reinem Zucker, wohl aber im ausgepreßten Traubensaft,
-in der Bierwürze und andern gährungsfähigen Flüssigkeiten; er
-vermehrt sich nur, so lange er dieselben findet. Sauerstoff und
-Wasserstoff werden ihm im Wasser dargeboten; auch dieMineralstoffe
-müssen in der Lösung vorhanden sein; sie lassen sich später wie-
-* (719)
+Wenn süße Milch sauer wird, so beruht dies darauf, daß der Milchzucker in Milchsäure verwandelt wird. Auch hier ist ein Fermentpilz aus der Klasse der Bakterien tätig, wie Pasteur zuerst nachgewiesen; wird die Milch gekocht, so wird das Milchsäureferment getödtet; und wird der Zutritt neuer Keime verhindert, so hält sich die Milch durch unbegrenzte Zeit süß. Das nämliche Milchsäureferment spielt auch bei der Bereitung des Sauerkrauts, der Sauergurken u. s. w. eine Rolle; entwickelt es sich im Rübensaft oder in der Bierwürze, so macht es den Fabrikanten großen Schaden.
 
+Andere Fermentpilze erzeugen andere Gährungen; eine Art macht den Harn alkalisch, eine andere verwandelt Gerbstoff in Gallussäure, wieder andere sind bei der Buttersäuregährung und bei der Bildung der Käse tätig; besonders interessant sind die Fermentpilze aus der Klasse der Kugelbakterien, welche Farbstoffe erzeugen.
 
-### 0021
+Seit uralter Zeit geht die Sage, daß sich von Zeit zu Zeit auf Speisen, besonders auf Brot, plötzlich ein Bluttropfen bilden könne; ist erst einer erschienen, so vermehrt sich das Blut, es tropft und überzieht weite Flächen; wurde dies in alter Zeit beobachtet, so galt es als ein Unheildrohendes Zeichen, das den Zorn der Gottheit anzeigt, verborgene Verbrechen offenbart und blutige Sühne erheischt, Die Geschichte berichtet bis in die neue Zeit von zahllosen Opfern, welche einem finsteren Aberglauben fielen, so oft das Wunder des Bluts auf Speisen, besonders aber, wenn es auf der geheiligten Oblate einer Hostie sichtbar ward. Mit dem Jahrhundert der Aufklärung hörte allmählich das Blutwunder auf; aber erst seit den letzten Jahrzehnten erkannte man, daß den Wunderberichten eine naturwissenschaftliche Tatsache zu Grunde liege.
 
-20
-der inzderHefeasche nachweisen. Vom Stickstoff glaubte man
-früher, daßihn der Hefepilz nur aus den eiweißartigen Verbin-
-dungen aufnehmen könne, welche im Traubensafte wie in der
-Bierwürze nie fehlen; Pasteur zeigte, daß der Hefepilz seinen
-Stickstoffbedarf auch durch Aufnahme von Ammoniak befriedigen
-kann, welches aus Wasserstoff und Stickstoff besteht. Die
-Kohle endlich entnimmt der Hefepilz unmittelbar und ausschließ-
-lich aus dem Zucker; er bildet seine Zellhaut und seinen Fettge-
-halt durch geringe Umwandlungen des Zuckers; vermuthlich er-
-zeugt er auch die Eiweißstoffe, die in seinen Zellen vorhanden
-sind, durch Verbindung des Zucker mit Ammoniak. Indem nun
-der Hefepilz den Zucker verbraucht, um daraus seine eigenen Zellen
-zu bilden, zu ernähren und zu vermehren, bewirkt er ein Zer-
-fallen des Zuckers und eine neue Anordnung seiner feinsten Stoff-
-theilchen; er verursacht dadurch eben jene Veränderung, die als
-Alkoholgährung bezeichnet wird. Ist die Gährung vorüber, so
-ist der Zucker verschwunden; aber auch der Hefepilz kann sich nun
-nicht weiter vermehren, er setzt sich am Boden der ausgegohrenen
-Flüssigkeit als Unterhefe ab, oder wird mit der stürmisch entwei-
-chenden Kohlensäure als Schaum oder Oberhefe ausgeworfen.
-Andere Gährungen werden durch Bacterien oder durch mi-
-kroskopische Wesen erregt, die den Bacterien verwandt, nur durch
-Spaltung oder Theilung ihrer Zellen sich vermehren, und deshalb
-mit den Bacterien in der Klasse der Spaltpilze (Schizomyceten)
-vereinigt werden. Wenn Bier oder Wein an der Luft mit der
-Zeit sauer werden, so bildet sich Essigsäure; durch Bacterien,
-welche in lange Ketten gereiht, oder zu schleimigen Häuten
-verbunden sind, wird der Alkohol der geistigen Flüsfigkeit in
-Essigsäure verwandelt. Pasteur hat gezeigt, daß alle Krank-
-heiten des Weines von mikroskopischen Fermentpilzen ver-
-ursacht werden, deren Keime während der Weinbereitung in die
-(720)
+Ehrenberg war es, der zuerst die Blut-Erscheinung auf das Sorgfältigste erforschte; sie bildet sich in feuchter Luft, nur auf gekochten, nicht auf rohen Speisen; auf Kartoffeln, Reis, Mehlkleister, Polenta, selbst auf Fleisch, Milch und Hühnereiweiß, von selbst, ohne daß man sie jedoch willkürlich hervorrufen könnte. Zuerst erscheinen meist kleine, rosenrote oder purpurne Schleimtröpfchen, die zur Größe eines starken Stecknadelkopfes anwachsen und wie Fischrogen aussehen, dann sich verflachen, zusammenfließen und einen zähen blutigen Schleim bilden. Breitet man mit der Nadel einen Tropfen der roten Gallert auf einer frischen Kartoffel aus, so vermehrt sich rasch die rote Substanz; es ist leicht, so große Mengen zu erzeugen, daß man sie zum Färben benutzen könnte; leider ist der prächtige Farbstoff nicht haltbar; er wird am Licht bald zerstört. Ehrenberg fand in dem roten Schleim unzählige ovale Körperchen, denen er den Namen der Wundermonaden (_Monas prodigiosa_) gab; wir bezeichnen sie besser als rote Kugelbakterien (_Micrococcus prodigiosus_) (Fig. 1); sie ernähren sich von den eiweißhaltigen Speisen, auf deren Oberfläche sie sich entwickeln, zersetzen dieselben und erzeugen durch eine eigentümliche Pigmentgährung den roten Farbstoff, der, wie Otto Erdmann* und Schroeter* nachgewiesen haben, eine auffallende Verwandtschaft mit jenen glänzenden Anilinfarben besitzt, welche in der neuesten Zeit eine so hohe Bedeutung für die Färbeindustrie gewonnen haben.
 
+*) Bildung von Anilinjarben aus Proteinkörpern. Journal für praktische Chemie. 1866.
 
-### 0022
-
-21
-Flüssigkeit gelangen und sich darin mehr oder weniger rasch ver-
-mehren; ihm gebührt das Verdienst, diese Entdeckung zugleich
-praktisch zum größten Vortheil des Weinbaues verwerthet zu ha-
-ben; wenn der Wein in den Flaschen auf 50-70 erwärmt
-wird, so wird nicht blos das Essigferment, sondern auch die üb-
-rigen Spaltpilze getödtet, die den Wein kahmig, schleimig, oder
-bitter machen; der Wein wird haltbar, er kann ausgeführt wer-
-den, und gewinnt an Feuer, Bouquet und Werth.
-Wenn süße Milch sauer wird, so beruht dies darauf, daß
-der Milchzucker in Milchsäure verwandelt wird. Auch hier ist
-ein Fermentpilz aus der Klasse der Bacterien thätig, wie Pasteur
-zuerst nachgewiesen; wird die Milch gekocht, so wird das Milch-
-säureferment getödtet; und wird der Zutritt neuer Keime verhindert, so
-hält sich die Milch durch unbegrenzte Zeit süß. Das nämliche
-Milchsäureferment spielt auch bei der Bereitung des Sauerkrauts,
-der Sauergurken u. s. w. eine Rolle; entwickelt es sich im Rü-
-bensaft oder in der Bierwürze, so macht es den Fabrikanten
-großen Schaden.
-Andere Fermentpilze erzeugen andere Gährungen; eine Art
-macht den Harn alkalisch, eine andere verwandelt Gerbstoff in
-Gallussäure, wieder andere sind bei der Buttersäuregährung und
-bei der Bildung der Käse thätig; besonders interessant
-sind die Fermentpilze aus der Klasse der Kugelbacterien, welche
-Farbstoffe erzeugen.
-Seit uralter Zeit geht die Sage, daß sich von Zeit zu Zeit
-auf Speisen, besonders auf Brot, plötzlich ein Bluttropfen bil-
-den könne; ist erst einer erschienen, so vermehrt sich das Blut,
-es tropft und überzieht weite Flächen; wurde dies in alter
-Zeit beobachtet, so galt es als ein Unheildrohendes Zeichen,
-das den Zorn der Gottheit anzeigt, verborgene Verbrechen offenbart
-und blutige Sühne erheischt, Die Geschichte berichtet bis in
-(721)
-
-
-### 0023
-
-22
-die neue Zeit von zahllosen Opfern, welche einem finsteren Aber-
-glauben fielen, so oft das Wunder des Bluts auf Speisen, be-
-sonders aber, wenn es auf der geheiligten Oblate einer Hostie
-sichtbar ward. Mit dem Jahrhundert der Aufklärung hörte all-
-mählich das Blutwunder auf; aber erst seit den letzten Jahrzehn-
-ten erkannte man, daß den Wunderberichten eine naturwissen-
-schaftliche Thatsache zu Grunde liege.
-Ehrenberg war es, der zuerst die Blut-Erscheinung auf das
-Sorgfältigste erforschte; sie bildet sich in feuchter Luft, nur auf
-gekochten, nicht auf rohen Speisen; auf Kartoffeln, Reis, Mehl-
-kleister, Polenta, selbst auf Fleisch, Milch und Hühnereiweiß,
-von selbst, ohne daß man sie jedoch willkürlich hervorrufen könnte.
-Zuerst erscheinen meist kleine, rosenrothe oder purpurne Schleim-
-tröpfchen, die zur Größe eines starken Stecknadelkopfes anwachsen
-und wie Fischrogen aussehen, dann sich verflachen, zusammen-
-fließen und einen zähen blutigen Schleim bilden. Breitet man
-mit der Nadel einen Tropfen der rothen Gallert auf einer frischen
-Kartoffel aus, so vermehrt sich rasch die rothe Substanz; es ist
-leicht, so große Mengen zu erzeugen, daß man sie zum Färben
-benutzen könnte; leider ist der prächtige Farbstoff nicht haltbar;
-er wird am Licht bald zerstört. Ehrenberg fand in dem rothen
-Schleim unzählige ovale Körperchen, denen er den Namen der
-Wundermonaden (Monas prodigiosa) gab; wir bezeichnen sie
-besser als rothe Kugelbacterien (Micrococcus prodigiosus) (Fig. I)
-sieernähren sich von den eiweißhaltigen Speisen, auf deren Oberfläche
-sie sich entwickeln, zersetzen dieselben und erzeugen durch eine eigen-
-thümliche Pigmentgährung den rothen Farbstoff, der, wie Otto
-Erdmann) und Schroeter) nachgewiesen haben, eine auffallende
-Verwandtschaft mit jenen glänzenden Anilinfarben besitzt, welche
-in der neuesten Zeit eine so hohe Bedeutung für die Färbein-
-dustrie gewonnen haben.
-(722)
-
-
-### 0024
+*) Schröter über einige durch Bakterien gebildete Pigmente in Cohns Beiträgen zur Biologie der Pflanzen. Heft 2. 1872. 
 
 An historischem Interesse, und dem mächtigen Eindruck, wel-
 chen es auf die mythenbildende Phantasie der Völker ausübte,
