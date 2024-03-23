@@ -134,454 +134,50 @@ Ehrenberg war es, der zuerst die Blut-Erscheinung auf das Sorgfältigste erforsc
 
 *) Schröter über einige durch Bakterien gebildete Pigmente in Cohns Beiträgen zur Biologie der Pflanzen. Heft 2. 1872. 
 
-An historischem Interesse, und dem mächtigen Eindruck, wel-
-chen es auf die mythenbildende Phantasie der Völker ausübte,
-steht das "Wunderblut" einzig da; als naturwissenschaftliche Er-
-scheinung schließt es sich an eine ganze Reihe von Färbungen,
-welche in feuchter Luft fast regelmäßig auf Kartoffeln, auf Käse,
-gekochten Eiern und anderen Speisen erscheinen, in Gestalt
-schneeweißer, schwefelgelber, orangerother, spangrüner, violetter,
-blauer oder brauner Flecken, Tröpfchen und Schleimmassen; alle
-diese Farben, zum Theil ebenfalls Anilinpigmenten verwandt,
-werden von Kugelbacterien erzeugt, welche unter dem Mikroskope sich
-von dem Micrococcus prodigiosus des Wunderbluts kaum un-
-terscheiden lassen. Wenn sich die Milch von selbst blau oder
-gelb färbt, oder der Eiter aus Wunden eine spangrüne Färbung
-annimmt, so sind Stäbchenbacterien als Erzeuger der Farbstoffe
-in diesen Flüssigkeiten nachgewiesen.) Der von den Chemikern
-so viel benutzte Lakmus wird nebst einigen verwandten Pigmen-
-ten aus strauchigen oder krustigen Felsen-bewohnenden Flechten ge-
-wonnen, indem dieselben im Wasser so lange der Fäulniß über-
-lassen bleiben, bis der anfänglich farblose Auszug an der Luft
-eine schöne purpurne, rothe oder blaue Färbung annimmt; nach
-neueren Forschungen ist es wahrscheinlich, daß auch der Lakmus
-durch die Lebensthätigkeit von Bacterien gebildet wird; es ist
-sogar gelungen, durch Kugelbacterien in künstlichen chemischen
-Lösungen, welche an sich wasserklar und vollkommen farblos, eine
-gewisse Menge weinstein- und essigsaures Ammoniak enthalten,
-in kurzer Zeit einen dem Lakmus ganz ähnlichen blauen Farbstoff
-zu erzeugen, der die Flüssigkeit erst hellblau, von Tag zu Tag
-immer prächtiger und tiefer blau färbt; in andern Versuchen traten
-Kugelbacterien gewissermaßen als Fabrikanten von saft- oder
-spangrünen, gelben oder rothen Farben auf, die sie aus farb-
-losen chemischen Lösungen herzustellen vermögen.
-(723)
+An historischem Interesse, und dem mächtigen Eindruck, welchen es auf die mythenbildende Phantasie der Völker ausübte, steht das "Wunderblut" einzig da; als naturwissenschaftliche Erscheinung schließt es sich an eine ganze Reihe von Färbungen, welche in feuchter Luft fast regelmäßig auf Kartoffeln, auf Käse, gekochten Eiern und anderen Speisen erscheinen, in Gestalt schneeweißer, schwefelgelber, orangeroter, spangrüner, violetter, blauer oder brauner Flecken, Tröpfchen und Schleimmassen; alle diese Farben, zum Teil ebenfalls Anilinpigmenten verwandt, werden von Kugelbakterien erzeugt, welche unter dem Mikroskope sich von dem _Micrococcus prodigiosus_ des Wunderbluts kaum unterscheiden lassen. Wenn sich die Milch von selbst blau oder gelb färbt, oder der Eiter aus Wunden eine spangrüne Färbung annimmt, so sind Stäbchenbakterien als Erzeuger der Farbstoffe in diesen Flüssigkeiten nachgewiesen.* Der von den Chemikern so viel benutzte Lakmus wird nebst einigen verwandten Pigmenten aus strauchigen oder krustigen Felsen-bewohnenden Flechten gewonnen, indem dieselben im Wasser so lange der Fäulniß überlassen bleiben, bis der anfänglich farblose Auszug an der Luft eine schöne purpurne, rote oder blaue Färbung annimmt; nach neueren Forschungen ist es wahrscheinlich, daß auch der Lakmus durch die Lebenstätigkeit von Bakterien gebildet wird; es ist sogar gelungen, durch Kugelbakterien in künstlichen chemischen Lösungen, welche an sich wasserklar und vollkommen farblos, eine gewisse Menge weinstein- und essigsaures Ammoniak enthalten, in kurzer Zeit einen dem Lakmus ganz ähnlichen blauen Farbstoff zu erzeugen, der die Flüssigkeit erst hellblau, von Tag zu Tag immer prächtiger und tiefer blau färbt; in andern Versuchen traten Kugelbakterien gewissermaßen als Fabrikanten von saft- oder spangrünen, gelben oder roten Farben auf, die sie aus farblosen chemischen Lösungen herzustellen vermögen.
 
+*) _Bacterium (Vibrio) synxanthum, Bact. syncyanum Ehr., Bact. aerugineum Schoet._
 
-### 0025
+Endlich hat sich in jüngster Zeit ein ungeahnter Einblick in geheimnißvolle Lebenstätigkeiten der Bakterien eröffnet, durch welche dieselben mit dämonischer Gewalt über Wohl und Wehe, ja über Leben und Sterben der Menschen entscheiden.
 
-24
-Endlich hat sich in jüngster Zeit ein ungeahnter Einblick in
-geheimnißvolle Lebeusthätigkeiten der Bacterien eröffnet, durch
-welche dieselben mit dämonischer Gewalt über Wohl und Wehe,
-ja über Leben und Sterben der Menschen entscheiden.
-Häufiger vielleicht als je in Folge des gesteigerten Völker-
-verkehrs, sind in den letzten Jahrzehnten Menschen und Tiere
-von der Gottesgeißel der Epidemieen heimgesucht worden, die mit
-unaufhaltsamem Schritt von Stadt zu Stadt, von Land zu
-Land wandern, einen einzelnen Ort nur eine Zeit lang heimsu-
-chen, dann gleichsam ermattend verschwinden, um an einer an-
-deren Stelle ihr Werk fortzusetzen, und meist erst nach längerer
-Zwischenzeit wieder zurückzukehren. Nur zu oft vergeblich be-
-müht sich ärztliche Kunst und Wissenschaft, der verheerenden
-Gewalt dieser Krankheiten ihre Opfer zu entreißen, oder ihrem
-Gange durch Vorbeugungsmaßregeln Schranken zu setzen. So ver-
-schieden auch die einzelnen Kraukheitsbilder, so haben doch alle
-Epidemieen, Cholera, Pest, Typhus, Diphtherie, Pocken, Schar-
-lach, Hospitalbrand, Rinderpest und wie sie alle heißen, gewisse
-gemeinschaftliche Züge: die Krankheit entsteht nirgends von selbst,
-weder aus äußeren noch aus inneren Ursachen; sondern sie wird
-aus einem anderen Ort eingeschleppt, wo sie bereits früher
-herrschte, durch einen Kranken, oder durch Gegenstände, die mit
-einem Kranken in Berührung waren; sie verbreitet sich nur durch
-Ansteckung. Hat die Ansteckung stattgefunden, so verge-
-hen Stunden und selbst Tage, ehe die Zeichen derseben
-äußerlich hervortreten; nach einer gewissen Zeit, der Incu-
-bation, bricht die Kraukheit aus durch gewaltsame Störun-
-gen in derkgesetzmäßigen Lebensthätigkeit aller Organe, vom Ge-
-hirn bis zum Verdauungssystem; der Kranke leidet, als stände
-er unter dem Einfluß eines Giftes, welches in sein Blut einge-
-drungen; und wie er selbst durch einen Giftstoff angesteckt,
-(7241
+Häufiger vielleicht als je in Folge des gesteigerten Völkerverkehrs, sind in den letzten Jahrzehnten Menschen und Tiere von der Gottesgeißel der Epidemieen heimgesucht worden, die mit unaufhaltsamem Schritt von Stadt zu Stadt, von Land zu Land wandern, einen einzelnen Ort nur eine Zeit lang heimsuchen, dann gleichsam ermattend verschwinden, um an einer anderen Stelle ihr Werk fortzusetzen, und meist erst nach längerer Zwischenzeit wieder zurückzukehren. Nur zu oft vergeblich bemüht sich ärztliche Kunst und Wissenschaft, der verheerenden Gewalt dieser Krankheiten ihre Opfer zu entreißen, oder ihrem Gange durch Vorbeugungsmaßregeln Schranken zu setzen. So verschieden auch die einzelnen Krankheitsbilder, so haben doch alle Epidemieen, Cholera, Pest, Typhus, Diphtherie, Pocken, Scharlach, Hospitalbrand, Rinderpest und wie sie alle heißen, gewisse gemeinschaftliche Züge: die Krankheit entsteht nirgends von selbst, weder aus äußeren noch aus inneren Ursachen; sondern sie wird aus einem anderen Ort eingeschleppt, wo sie bereits früher herrschte, durch einen Kranken, oder durch Gegenstände, die mit einem Kranken in Berührung waren; sie verbreitet sich nur durch Ansteckung. Hat die Ansteckung stattgefunden, so vergehen Stunden und selbst Tage, ehe die Zeichen derseben äußerlich hervortreten; nach einer gewissen Zeit, der Incubation, bricht die Krankheit aus durch gewaltsame Störungen in derkgesetzmäßigen Lebenstätigkeit aller Organe, vom Gehirn bis zum Verdauungssystem; der Kranke leidet, als stände er unter dem Einfluß eines Giftes, welches in sein Blut eingedrungen; und wie er selbst durch einen Giftstoff angesteckt, so verbreitet er wieder das Gift weiter, im Athem, im Schweiß, in den Ausleerungen, selbst in den Kleidern, oder der Wäsche; in manchen Krankheiten sammelt sich der Ansteckungsstoff in concentrirtester Form in besonderen Pusteln oder Blattern, deren klarer Saft schon in der geringsten Menge einen Gefunden vergiftet, sobald er in dessen Blutlauf aufgenommen wurde, und ihn unter den nämlichen Krankheitserscheinungen zum Erzeuger des nämlichen Giftes werden läßt. Beim Hospitalbrand, beim Leichengift genügt schon der Hauch, der am Messer des Chirurgen oder des Anatomen haftet, um jede offene Wunde zu vergiften: beim Milzbrand steht fest, daß eine Fliege das Gift von einem Kranken auf ein gesundes Tier übertragen kann.
 
+Kaum hatte Leeuwenhoek seine ersten Beobachtungen über die unsichtbaren Tierchen im Regenwasser bekannt gemacht, als die vorschnelle Hypothese phantastischer Aerzte das furchtbare Rätsel der Epidemieen durch mikroskopische Pestfliegen zu erklären glaubte. Aber vergeblich blieb bis in die neueste Zeit jeder Versuch, in dem Ansteckungsstoff, welcher durch Berührung die Krankheit erzeugt, oder in dem Contagium mit Hülfe des Mikroskops lebende Wesen wirklich aufzufinden; es wäre ebenso leicht gewesen, die unsichtbaren Pfeile zu Gesicht zu bekommen, mit denen nach dem Glauben der Alten der ferntreffende Apollon in seinem Zorn Menschen und Heerden hinstreckte.
 
-### 0026
+Die erste Entdeckung mikroskopischer Organismen in einer ansteckenden Krankheit verdanken wir Davaine, welcher im Jahre 1863 im Blute milzkranker Rinder einige Stunden vor deren Tode unzählige feine fadenförmige Körperchen beobachtete, die meist doppelt so lang als Blutkörperchen, sich durch Teilung vermehren und von den gewöhnlichen Fadenbakterien sich nur durch den Mangel an Bewegung unterscheiden; Davaine bezeichnete sie deshalb als Bakteridien. Auch der Mensch ist einer ansteckenden Krankheit unterworfen, die dem Milzbrand sehr nahe verwandt ist*; auch in diesen Fällen ist sein Blut von Bakteridien erfüllt.
 
-25
-so verbreitet er wieder das Gift weiter, im Athem, im Schweiß,
-in den Ausleerungen, selbst in den Kleidern, oder der Wäsche;
-in manchen Kraukheiten sammelt sich der Ansteckungsstoff in con-
-centrirtester Form in besonderen Pusteln oder Blattern, deren
-klarer Saft schon in der geringsten Menge einen Gesunden ver-
-giftet, sobald er in dessen Blutlauf aufgenommen wurde, und
-ihn unter den nämlichen Krankheitserscheinungen zum Erzeuger
-des nämlichen Giftes werden läßt. Beim Hospitalbrand, beim
-Leichengift genügt schon der Hauch, der am Messer des Chirur-
-gen oder des Anatomen haftet, um jede offene Wunde zu ver-
-giften: beim Milzbrand steht fest, daß eine Fliege das Gift von
-einem Kranken auf ein gesundes Tier übertragen kann.
-Kaum hatte Leeuwenhoek seine ersten Beobachtungen über
-die unsichtbaren Tierchen im Regenwasser bekannt gemacht, als
-die vorschnelle Hypothese phantastischer Aerzte das furchtbare
-Räthsel der Epidemieen durch mikroskopische Pestfliegen zu er-
-klären glaubte. Aber vergeblich blieb bis in die neueste Zeit je-
-der Versuch, in dem Ansteckungsstoff, welcher durch Berührung
-die Krankheit erzeugt, oder in dem Contagium mit Hülfe des
-Mikroskops lebende Wesen wirklich aufzufinden; es wäre ebenso
-leicht gewesen, die unsichtbaren Pfeile zu Gesicht zu bekommen,
-mit denen nach dem Glauben der Alten der ferntreffende Apollon
-in seinem Zorn Menschen und Heerden hinstreckte.
-Die erste Entdeckung mikroskopischer Organismen in einer
-ansteckenden Krankheit verdanken wir Davaine, welcher im Jahre
-1863 im Blute milzkranker Rinder einige Stunden vor deren
-Tode unzählige feine fadenförmige Körperchen beobachtete, die
-meist doppelt so lang als Blutkörperchen, sich durch Theilung
-vermehren und von den gewöhnlichen Fadenbacterien sich nur
-durch den Mangel an Bewegung unterscheiden; Davaine bezeichnete
-sie deshalb als Bacteridien. Auch der Mensch ist einer an-
-(725)
+*) _Pustula maligna._
 
+Seit etwa vier Jahren hat sich die Zahl der Epidemieen, bei denen Bakterien auftreten, sehr vermehrt*: es ist jedoch hier nicht am Orte die einzelnen Fälle zu besprechen; wir greifen nur einige der wichtigsten, am genauesten untersuchten Vorkommnisse heraus.
 
-### 0027
+*) Wir verdanken diese Tatsachen den Untersuchungen von Keber, Hallier, Zürn, Klebs, Leiden, Recklingshausen, Jaffe, Waldeyer, Orth, Buhl, Hüter, Oertel, Traube und Anderen.
 
-28
-steckenden Krankheit unterworfen, die dem Milzbrand sehr nahe
-verwandt ist 1); auch in diesen Fällen ist sein Blut von Bacte-
-ridienerfüllt.
-Seit etwa vier Jahren hat sich die Zahl der Epidemieen,
-bei denen Bacterien auftreten, sehr vermehrt 1): es ist jedoch
-hier nicht am Orte die einzelnen Fälle zu besprechen; wir greifen
-nur einige der wichtigsten, am genauesten untersuchten Vorkomm-
-nisse heraus.
-Jedermann weiß, wie erbarmungslos die Diphtherie so
-manches hoffnungsvolle Leben hinwegrafft; ein leicht übertrag-
-bares Contagium setzt sich gewöhnlich zuerst in Schluud und
-Luftröhre fest, erzeugt dort membranartige Gebilde, welche mit
-raschem Erstickungstod bedrohen. Das Mikroskop zeigt in sämmt-
-lichen Organen des Kranken unzählige Kugelbacterien in dichten
-Massen zusammengehäuft, welche die Gewebe der Muskeln, Ge-
-fäße, Schleimhäute durchsetzen und belagern, überall Blutstauun-
-gen und Entzündungen herbeiführen und eine allgemeine Blut-
-vergiftung zur Folge haben. Nur dann ist Genesung möglich,
-wenn die Kugelbacterien in den Nieren sich anhäufen und durch
-diese allmählich aus dem kranken Körper wieder ausgeschieden
-werden.
-Die Blutvergiftung durch offene Wunden, welche im Kriege
-mehr Opfer wegrafft, als die feindlichen Kugeln. und wenn sie
-einmal in einem Hospital sich eingenistet, selbst leichte Verletzun-
-gen tödtlich werden läßt, ist stets von der Vermehrung von
-Kugelbacterien begleitet, die bald vereinzelt, bald in rosenkranz-
-förmigen Fäden oder in schleimigen Haufen sich im Eiter und im
-Narbengewebe ansiedeln, oder ins Blut aufgenommen und in ver-
-schiedenen Organen abgesetzt werden, wo sie Entzündung, Eite-
-rung, Absceßbildung herbeiführen, und durch zehrende Fieber die
-jugendlichste Lebenskraft erschöpfen. Auch in der klaren Lymphe
-(726)
+Jedermann weiß, wie erbarmungslos die Diphtherie so manches hoffnungsvolle Leben hinwegrafft; ein leicht übertragbares Contagium setzt sich gewöhnlich zuerst in Schluud und Luftröhre fest, erzeugt dort membranartige Gebilde, welche mit raschem Erstickungstod bedrohen. Das Mikroskop zeigt in sämmtlichen Organen des Kranken unzählige Kugelbakterien in dichten Massen zusammengehäuft, welche die Gewebe der Muskeln, Gefäße, Schleimhäute durchsetzen und belagern, überall Blutstauungen und Entzündungen herbeiführen und eine allgemeine Blutvergiftung zur Folge haben. Nur dann ist Genesung möglich, wenn die Kugelbakterien in den Nieren sich anhäufen und durch diese allmählich aus dem kranken Körper wieder ausgeschieden werden.
 
+Die Blutvergiftung durch offene Wunden, welche im Kriege mehr Opfer wegrafft, als die feindlichen Kugeln, und wenn sie einmal in einem Hospital sich eingenistet, selbst leichte Verletzungen tödtlich werden läßt, ist stets von der Vermehrung von Kugelbakterien begleitet, die bald vereinzelt, bald in rosenkranzförmigen Fäden oder in schleimigen Haufen sich im Eiter und im Narbengewebe ansiedeln, oder ins Blut aufgenommen und in verschiedenen Organen abgesetzt werden, wo sie Entzündung, Eiterung, Absceßbildung herbeiführen, und durch zehrende Fieber die jugendlichste Lebenskraft erschöpfen. Auch in der klaren Lymphe der Kuh- und Menschenpocken sind ähnliche Kugelbakterien in ungeheurer Menge und rascher Vermehrung aufgefunden worden. In den Ausleerungen der Cholerakranken, welche mit Reiswasser verglichen werden, hat Klob schon im Jahre 1866 unzählige Bakterien, zu gallertartigen Schleimmassen verbunden, nachgewiesen. Selbst die Seidenwürmer unterliegen einer Epidemie, bei der Bakterien auftreten.
 
-### 0028
+Aber folgt denn aus der Gegenwart der Bakterien, daß dieselben auch wirklich mit der Epidemie zu schaffen haben? Ist es nicht eben so gut möglich, daß diese mikroskopischen Wesen nur zufällige und unwesentliche Begleiter der Krankheit sind, wie ja Bakterien sich bei jeder Gährung und Fäulniß entwickeln, ohne den mindesten Einfluß auf die Gesundheit auszuüben?
 
-27
-der Kuh- und Menschenpocken sind ähnliche Kugelbacterien in
-ungeheurer Menge und rascher Vermehrung aufgefunden worden.
-In den Ausleerungen der Cholerakranken, welche mit Reiswasser
-verglichen werden, hat Klob schon im Jahre 1866 unzählige
-Bacterien, zu gallertartigen Schleimmassen verbunden, nachge-
-wiesen. Selbst die Seidenwürmer unterliegen einer Epidemie,
-bei der Bacterien auftreten.
-Aber folgt denn aus der Gegenwart der Bacterien, daß die-
-selben auch wirklich mit der Epidemie zu schaffen haben? Ist es
-nicht eben so gut möglich, daß diese mikroskopischen Wesen nur
-zufällige und unwesentliche Begleiter der Krankheit sind, wie ja
-Bacterien sich bei jeder Gährung und Fäulniß entwickeln, ohne
-den mindesten Einfluß auf die Gesundheit auszuüben?
-Noch ist das durch die neuesten Forschungen verbreitete Licht
-nicht hell genug, um dieses dunkle Gebiet ganz überschauen
-zu lassen; noch ist der neu gewonnene Boden nicht so fest, um
-das Gebäude einer unerschütterlichen Theorie darauf zu gründen.
-Doch das wissen wir bereits, daß die Bacterien der Contagien
-nicht die nämlichen Arten sind, welche Fäulniß erregen; sie lassen
-sich von den letzteren meist schon unter dem Mikroskop durch ihre
-Form unterscheiden; sie stehen unter ganz anderen Lebensbedin-
-gungen; ja sie kämpfen oft mit den Fäulnißbacterien auf dem
-nämlichen Boden um das Dasein und werden von diesen aus-
-gerottet, wenn sie unterliegen. Das hatte schon Davaine ge-
-funden, als er beobachtete, daß mit beginnender Fäulniß, oft
-schon 48 Stunden nach dem Tode eines Tiers, die Milzbrand-
-bacterien verschwinden, sobald die gemeinen Stäbchenbacterien
-sich maßlos vermehren. Während aber ein Blutstropfen voll
-Milzbrandbacterien einem gesunden Rinde eingeimpft, nach 24
-bis 36 Stunden den Tod bringt, so ist die Impfung mit ge-
-faultem Blute ohne Bacteridien wirkungslos. Durch Eintrocknen
-(727)
+Noch ist das durch die neuesten Forschungen verbreitete Licht nicht hell genug, um dieses dunkle Gebiet ganz überschauen zu lassen; noch ist der neu gewonnene Boden nicht so fest, um das Gebäude einer unerschütterlichen Theorie darauf zu gründen. Doch das wissen wir bereits, daß die Bakterien der Contagien nicht die nämlichen Arten sind, welche Fäulniß erregen; sie lassen sich von den letzteren meist schon unter dem Mikroskop durch ihre Form unterscheiden; sie stehen unter ganz anderen Lebensbedingungen; ja sie kämpfen oft mit den Fäulnißbakterien auf dem nämlichen Boden um das Dasein und werden von diesen ausgerottet, wenn sie unterliegen. Das hatte schon Davaine gefunden, als er beobachtete, daß mit beginnender Fäulniß, oft schon 48 Stunden nach dem Tode eines Tiers, die Milzbrandbakterien verschwinden, sobald die gemeinen Stäbchenbakterien sich maßlos vermehren. Während aber ein Blutstropfen voll Milzbrandbakterien einem gesunden Rinde eingeimpft, nach 24 bis 36 Stunden den Tod bringt, so ist die Impfung mit gefaultem Blute ohne Bakteridien wirkungslos. Durch Eintrocknen verlieren die Milzbrandbakterien ihre Lebensfähigkeit nicht; daher gelingt auch die Ansteckung durch getrocknetes Blut.
 
+Bekanntlich gehen durch ein dichtes Filter, einen Thoncylinder, oder durch eine Membran nur klare Flüssigkeiten; feste Körperchen und wären sie noch so klein, werden vom Filter zurückgehalten. Diese Erfahrung benutzten Chauveau und Klebs, um zu beweisen, daß bei Pyämie, Septicämie und Blattern das Contagium nicht in den flüssigen Teilen des Eiters oder der Lymphe seinen Sitz haben könne, sondern in den mikroskopischen Kugelbakterien, welche sich darin entwickeln. Indem sie nämlich diese Ansteckungsstoffe durch ein Filter seihten, ermittelten sie, daß die klare Flüssigkeit, welche durch das Filter gegangen, ihre Ansteckungsfähigkeit verloren hatte, während die auf dem Filter zurückgebliebenen festen Substanzen wirksam blieben.
 
-### 0029
+Alle diese Tatsachen machen es in hohem Grade wahrscheinlich, daß die in vielen Krankheiten bereits nachgewiesenen Bakterien die Träger und Erreger der Ansteckung, daß sie die Fermente der Contagien sind. Wir halten an der Hoffnung fest, daß sich an eine vollständigere und klarere Erkenntniß dieser Tatsachen auch die Auffindung neuer Methoden knüpfen wird, um dem furchtbaren Feinde mit besserem Erfolge als bisher entgegen zu treten. Der Kunst des Arztes würden dadurch bestimmte Gesichtspunkte gegeben, auf welche sie hinzuwirken hat; es handelt sich um die drei Fragen: auf welchem Wege geschieht und auf welche Weise verhindert man die Übertragung von mikroskopischen Fermentorganismen? und durch welche Mittel wird die Vermehrung derselben gehemmt? Alle Desinfektionsmaßregeln, alle Heilversuche müßten nach der einen oder der anderen Richtung hin eingreifen; besonders würde auch das Wasser ins Auge zu fassen sein, von dem festgestellt ist, daß es selbst in scheinbar reinstem Zustande doch die Zufuhr von Bakterien und andern Fermentorganismen leicht vermittelt.
 
-28
-verlieren die Milzbrandbacterien ihre Lebensfähigkeit nicht; daher
-gelingt auch die Ansteckung durch getrocknetes Blut.
-Bekanntlich gehen durch ein dichtes Filter, einen Thoncylin-
-der, oder durch eine Membran nur klare Flüssigkeiten; feste
-Körperchen und wären sie noch so klein, werden vom Filter
-zurückgehalten. Diese Erfahrung benutzten Chauveau und Klebs,
-um zu beweisen, daß bei Pyämie, Septicämie und Blattern das
-Contagium nicht in den flüssigen Theilen des Eiters oder der
-Lymphe seinen Sitz haben könne, sondern in den mikroskopischen
-Kugelbacterieu, welche sich darin entwickeln. Indem sie nämlich
-diese Ansteckungsstoffe durch ein Filter seihten, ermittelten sie,
-daß die klare Flüssigkeit, welche durch das Filter gegangen, ihre
-Ansteckungsfähigkeit verloren hatte, während die auf dem Filter
-zurückgebliebenen festen Substanzen wirksam blieben.
-Alle diese Thatsachen machen es in hohem Grade wahr-
-scheinlich, daß die in vielen Krankheiten bereits nachgewiesenen
-Bacterien die Träger und Erreger der Ansteckung, daß sie die
-Fermente der Contagien sind. Wir halten an der Hoffnung fest,
-daß sich an eine vollständigere und klarere Erkenntniß dieser
-Thatsachen auch die Auffindung neuer Methoden knüpfen wird,
-um dem furchtbaren Feinde mit besserem Erfolge als bisher ent-
-gegen zu treten. Der Kunst des Arztes würden dadurch be-
-stimmte Gesichtspunkte gegeben, auf welche sie hinzuwirken hat;
-es handelt sich um die drei Fragen: auf welchem Wege ge-
-schieht und auf welche Weise verhindert man die Uebertragung
-von mikroskopischen Fermentorganismen? und durch welche Mittel
-wird die Vermehrung derselben gehemmt? Alle Desinfektions-
-maßregeln, alle Heilversuche müßten nach der einen oder der
-anderen Richtung hin eingreifen; besonders würde auch das
-Wasser ins Auge zu fassen sein, von dem festgestellt ist, daß es selbst
-(7201
-(728)
+Wir haben gesehen, daß bei aller Fäulniß und Gährung, daß in vielen Krankheiten sich Bakterien entwickeln und in riesigen Verhältnissen vermehren, sobald ihre Keime einmal Zugang gefunden, daß diese kleinsten Wesen gerade durch ihre Massenentwicklung die großartigste Arbeit verrichten. Aber woher stammen die ersten Keime? Mit dieser Frage haben sich die Naturforscher bis in die neueste Zeit beschäftigt, und sie in verschiedenem Sinne beantwortet.
 
+Die Einen sagten: bei der Fäulniß formen sich die organischen Elemente, welche den Körper des abgestorbenen Tiers gebildet hatten, in freier Schöpfungskraft zu selbständigen Wesen, die ganz verschieden von denen, aus deren Stoffen sie hervorgegangen, doch ebenfalls belebt und fortpflanzungsfähig sind; so gestalten sich die Eiweiß- und Fetttröpfchen zu Bakterien, vielleicht auch zu Hefe- und Schimmelpilzen, selbst zu jenen Infusionstierchen, die bei der Verwesung nie fehlen. Man erfand sogar für diese Weise der Entstehung einen besondern Namen, Urzeugung (_Generatio aequivoca_).
 
-### 0030
+Die Andern bestreiten die Möglichkeit daß lebende Wesen, seien sie noch so klein und einfach, jemals anders entstehen als aus Keimen, die von Wesen gleicher Art abstammen. Der Glaube an die Urzeugung der Bakterien sei der letzte Überrest eines uralten Aberglaubens, den die Leuchte der Wissenschaft noch nicht ganz verscheucht hat. Im Alterthum meinte man, Schlangen und Frösche entständen aus dem Schlamm, den die Sonne bebrütet, Raupen erzeugten sich aus faulen Blättern, Ungeziefer aus Schmutz, Würmer aus kranken Eingeweiden, Maden aus verdorbenem Fleisch. Heutzutage weiß jedes Kind, daß alles dies Mährchen sind; jede Hausfrau hat die Erfahrung gemacht, daß im Fleisch keine Maden entstehen, wenn durch ein Drahtgitter den Schmeißfliegen der Zutritt verwehrt wird, die ihre Eier darin ablegen wollen; sie hat gelernt, durch sorgfältiges Bedecken die staubfeinen Schimmelsporen abzuhalten, welche mit anderem Staube aus der Luft abgesetzt, auf ihren eingelegten Früchten gern sich ansiebeln; sie weiß, daß Trichinen und Bandwürmer nur durch den Genuß von rohem oder halbgekochtem Schweinefleisch entstehen, in dem die Jugendzustände dieser Tiere bereits vorhanden waren; selbst die Landwirte glauben nicht mehr, daß der Getreiderost durch Erkältung erzeugt wird, sondern daß er von Keimen abstammt, die von Berberizensträuchern oder von andern befallenen Halmen ausgestreut werden, und daß der Brand im Weizen verhindert wird, wenn man das Saatgut in Kupfervitriol einbeizt, um die anhaftenden Sporen des Brandpilzes zu tödten.
 
-29
-in scheinbar reinstem Zustande doch die Zufuhr von Bacterien
-und andern Fermentorganismen leicht vermittelt.
-Wir haben gesehen, daß bei aller Fäulniß und Gährung, daß
-in vielen Krankheiten sich Bacterien entwickeln und in riesigen
-Verhältnissen vermehren, sobald ihre Keime einmal Zugang
-gefunden, daß diese kleinsten Wesen gerade durch ihre Massen-
-entwicklung die großartigste Arbeit verrichten. Aber woher
-stammen die ersten Keime? Mit dieser Frage haben sich die
-Naturforscher bis in die neueste Zeit beschäftigt, und sie in ver-
-schiedenem Sinne beantwortet.
-Die Einen sagten: bei der Fäulniß formen sich die organi-
-schen Elemente, welche den Körper des abgestorbenen Tiers ge-
-bildet hatten, in freier Schöpfungskraft zu selbständigen Wesen,
-die ganz verschieden von denen, aus deren Stoffen sie hervorge-
-gangen, doch ebenfalls belebt und fortpflanzungsfähig find; so
-gestalten sich die Eiweiß- und Fetttröpfchen zu Bacterien, vielleicht
-auch zu Hefe- und Schimmelpilzen, selbst zu jenen Infusions-
-thierchen, die bei der Verwesung nie fehlen. Man erfand so-
-gar für diese Weise der Entstehung einen besondern Namen,
-Urzeugung (Generatio aequivoca).
-Die Andern bestreiten die Möglichkeit daß lebende Wesen,
-seien sie noch so klein und einfach, jemals anders entstehen
-als aus Keimen, die von Wesen gleicher Art abstammen. Der
-Glaube an die Urzeugung der Bacterien sei der letzte Ueber-
-rest eines uralten Aberglaubens, den die Leuchte der Wissenschaft
-noch nicht ganz verscheucht hat. Im Alterthum meinte man,
-Schlangen und Frösche entständen aus dem Schlamm, den die
-Sonne bebrütet, Raupen erzeugten sich aus faulen Blättern, Un-
-geziefer aus Schmutz, Würmer aus kranken Eingeweiden, Maden
-aus verdorbenem Fleisch. Heutzutage weiß jedes Kind, daß alles
-dies Mährchen sind; jede Hausfrau hat die Erfahrung gemacht,
-729)
-(729)
+Für die Bakterien und die ihnen verwandten Fermentpilze ist durch die von uns schon oben erwähnten Versuche der zweifellose Beweis geführt, daß fie eben so wenig durch Urzeugung entstehen, als andre lebende Wesen. Denn wenn Fleisch oder ein andrer stickstoffhaltiger Stoff aus dem Tier- oder Pflanzenreich in einem Kölbchen gekocht, ja auch nur auf ca. 60° erhitzt wird, so werden alle darin vorhandenen Bakterien getödtet; wird nun der Zutritt neuer Keime von Außen auf die eine oder die andre Weise verhindert, so entstehen nie und nimmer Bakterien von selbst, möge man das Kölbchen auch noch so lange aufbewahren; ein einziger eingeführter Keim dagegen genügt, um die Vermehrung und mit dieser die Fäulniß zu veranlassen. Entständen die Bakterien aus faulenden Stoffen durch Urzeugung, so müßte die Fäulniß dem Erscheinen der Bakterien vorangehen; der Versuch aber zeigt das Gegenteil, daß die Fäulniß erst eine Folge der Bakterienentwickelung ist.
 
+In den letzten Jahren machte eine Theorie großes Aufsehen, welche die Entstehung der Bakterien auf andre Weise zu erklären suchten. Die gewöhnlichen Schimmelpilze sollten unter gewissen Bedingungen bewegliche Keime von außerordentlicher Kleinheit gebären; diese Keime können sich, wurde behauptet, zu Bakterien, zu Hefe, schließlich wieder zu Schimmelpilzen fortentwickeln. Wenn sich in gewissen Krankheiten Bakterien im Blut oder in andern Organen finden, so beruhe dies darauf, daß die Sporen gemeiner Schimmel- oder Brandpilze im menschlichen Körper keimen, daß diese Keime erst als Bakterien schwärmen, sich aber bei geeigneter Kultur wieder zu verschiedenen Arten von Schimmelpilzen erziehen lassen. Aber eine vorurteilsfreie Nachprüfung hat nicht den geringsten Beweis dafür gegeben, daß Bakterien mit Hefe, Brand- oder Schimmelpilzen in entwickelungsgescichtlichem Zusammenhang stehen; die Bakterien entstehen, so viel wir bis jetzt wissen, immer nur aus Keimen gleicher Art.
 
-### 0031
+Durch diese Tatsachen ist freilich die Hoffnung zu Nichte gemacht worden, daß in der Entwickelung der Bakterien der Schlüssel gefunden werde für den Ursprung des Lebens auf der Erde überhaupt. Gäbe es auch nur ein einziges Wesen, welches aus ungeformter und lebloser Materie sich von selbst durch Urzeugung noch heutzutage zu einer lebendigen Zelle gestalten kann, so könnten wir uns vorstellen, daß die ersten Geschöpfe sich am Anfang auf die nämliche Weise gebildet haben. Nunmehr steht zwar fest, daß das Leben auf Erden einen Anfang gehabt; wie aber die ersten lebendigen Wesen entstanden, dafür fehlt es an aller Analogie; nach unserem bisherigen Wissen gleicht das Leben dem heiligen Feuer der Vesta, welches dadurch ewig erhalten wurde, daß immer der neue Brand sich an dem alten entzündete.
 
-30
-daß im Fleisch keine Maden entstehen, wenn durch ein Draht-
-gitter den Schmeißfliegen der Zutritt verwehrt wird, die ihre
-Eier darin ablegen wollen; sie hat gelernt, durch sorgfältiges
-Bedecken die staubfeinen Schimmelsporen abzuhalten, eiche mit
-3i, auf ihren eingelegten
-anderem Staube aus der Luft -.
-Früchten gern sich ansiedelu; sie weiß, daß Trichinen und Bandwür-
-mer nur durch den Genuß von rohem oder halbgekochtem Schweine-
-fleisch entstehen, in dem die Iugendzustände dieser Tiere bereits
-vorhanden waren; selbst die Landwirthe glauben nicht mehr, daß
-der Getreiderost durch Erkältung erzeugt wird, sondern daß er
-von Keimen abstammt, die von Berberizensträuchern oder von
-andern befallenen Halmen ausgestreut werden, und daß der Brand
-im Weizen verhindert wird, wenn man das Saatgut in Kupfer-
-vitriol einbeizt, um die anhaftenden Sporen des Brandpilzes
-zu tödten.
-Für die Bacterien und die ihnen verwandten Ferment-
-pilze ist durch die von uns schon oben erwähnten Versuche
-der zweifellose Beweis geführt, daß fie eben so wenig durch
-Urzeugung entstehen, als andre lebende Wesen. Denn wenn
-Fleisch oder ein andrer stickstoffhaltiger Stoff aus dem Tier-
-oder Pflanzenreich in einem Kölbchen gekocht, ja auch nur auf
-ca. 60 erhitzt wird, so werden alle darin vorhandenen Bacterien
-getödtet; wird nun der Zutritt neuer Keime von Außen auf die
-eine oder die andre Weise verhindert, so entstehen nie und nimmer
-Bacterien von selbst, möge man das Kölbchen auch noch so
-lange aufbewahren; ein einziger eingeführter Keim dagegen genügt,
-um die Vermehrung und mit dieser die Fäulniß zu veranlassen.
-Entständen die Bacterien aus faulenden Stoffen durch Urzeu-
-gung, so müßte die Fäulniß dem Erscheinen der Bacterien vor-
-angehen; der Versuch aber zeigt das Gegentheil, daß die Fäulniß
-erst eine Folge der Bacterienentwickelung ist.
-(720)
+Der berühmte Physiker W. Thomson hat in der geistvollen Rede, mit welcher er im vorigen Jahre die britische Naturforscherversammlung zu Edinburg eröffnete, die Schlußfolgerung gezogen: da das Leben auf der Erde nicht von selbst entstanden sein könne, so müsse es von einem andern Weltkörper auf den unsrigen übertragen worden sein. Wir wissen, daß die unzähligen Meteorsteine, welche auf die Erde herabgefallen sind, einst selbstständige Weltkörper oder doch Teile von solchen gewesen; in einzelnen Meteoriten sind Kohle und kohlenhaltige Verbindungen nachgewiesen, deren Ursprung auf organische Bildung hindeutet. Es läßt sich die Möglichkeit denken, daß auch einmal ein lebender und entwickelungsfähiger Keim die Katastrophe überlebt habe, welche gewöhnlich den Ankömmling aus dem Weltraum beim Eintritt in unsere Atmosphäre und beim Herabsturz auf die Erde in Gluth versetzt; von solchem Keime mögen alle andern Wesen abstammen; so mag auf die lebensleere Erde einstmals der Anfang des Lebens vom Himmel herabgekommen sein, wie nach der Mythe der belebende Feuerfunke durch Prometheus vom Olymp geholt wurde.
 
+Die Entwickelungsgeschichte der Bakterien läßt vielleicht an einen andern Ursprung des Lebens auf der Erde denken. Wir haben das Gewicht einer Bakterie auf 0,00000000157 Mgrm. berechnet; wir wissen, daß diese unendlich leichten Körperchen bei der Verdunstung durch die verdampfenden Wasserteilchen mit fortgeführt, in der Luft als Sonnenstäubchen umherschwimmen, und mit dem Staube wieder herabfallen, aber auch durch Luftströmungen über unermeßliche Strecken geführt, und gewiß auch in außerordentliche Höhe getragen werden können. Möglicherweise werden diese Stäubchen durch aufsteigende Luftströme mitunter so weit emporgehoben, daß sie der Anziehung unseres Planeten entzogen, in den Weltraum gelangen; die Existenz eines Weltstaubes ist aus verschiedenen kosmischen Lichterscheinungen wahrscheinlich. Der Weltraum ist außerordentlich kalt; doch haben Versuche erwiesen, daß selbst ein vielstündiges Einfrieren bei -18° die Bakterien nicht tödtet; sie verfallen durch die Kälte in Erstarrung, aus der sie beim Aufthauen erwachen und unter günstigen Umständen sich sofort zu vermehren beginnen. Es ist vielleicht nicht unmöglich, daß ein von der Erde aufgestiegenes Bakterienstäubchen eine Zeit lang im Weltraum umherschwimmt, dann in die Atmosphäre eines anderen Weltkörpers gelangt, und wenn es auf diesem die geeigneten Lebensbedingungen vorfindet, dort sich weiter vermehrt. Es läßt sich aber auch umgekehrt die Möglichkeit denken, daß aus irgend einem Leben ernährenden Weltkörper die Keime einer Bakterie oder eines ähnlichen äußerst kleinen urd einfachen Wesens als Stäubchen in den Weltraum geführt werden, und daß ein solcher Keim schließlich in die Atmosphäre der Erde gelangt und auf deren Boden sich absetzt. So lange das Urmeer, welches einstmals die aus glühendem Zustande erstarrte Erdrinde bedeckt hatte, noch über 60° erhitzt war, so lange war eine Entwickelung eines solchen Keimes nicht möglich; sobald aber die Abkühlung unter diesen Temperaturgrad gesunken war, mußte der fremde Lebenskeim in dem mit Salzen reich gesättigten Urmeer alle Bedingungen zu einer unbegrenzten Vermehrung finden; wir haben berechnet, daß in wenig Tagen der ganze Ocean mit solchen Wesen erfüllt sein könnte. Aus diesem ersten lebendigen Keim, in dem die Eigentümlichkeiten des Tier- und Pflanzenreichs noch nicht geschieden waren, konnte das Gesetz der Entwickelung, der Kampf ums Dasein, die natürliche Züchtung, die geographische Isolirung und manche andre bekannte oder unbekannte Kraft alle die verschiedenen Formen der Tier-und Pflanzenwelt fortbilden, welche in der Vergangenheit wie in der Gegenwart die Erde bewohnten und bewohnen.
 
-### 0032
-
-2
-In den letzten Jahren machte eine Theorie großes Aufsehen,
-welche die Entstehung der Bacterien auf andre Weise zu erklären
-suchten. Die gewöhnlichen Schimmelpilze sollten nter gewissen
-Bedingungen bewegliche Keime von außerordentlicher Kleinheit
-gebären; diese Keime können sich, wurde behauptet, zu Bacterien,
-zu Hefe, schließlich wieder zu Schimmelpilzen fortentwickeln.
-Weun sich in gewissen Krankheiten Bacterien im Blut oder
-in andern Organen finden, so beruhe dies darauf, daß die
-Sporen gemeiner Schimmel- oder Brandpilze im menschlichen
-Körper keimen, daß diese Keime erst als Bacterien schwärmen,
-sich aber bei geeigneter Kultur wieder zu verschiedenen Arten von
-Schimmelpilzen erziehen lassen. Aber eine vorurtheilsfreie Nach-
-prüfung hat nicht den geringsten Beweis dafür gegeben, daß Bac-
-terien mit Hefe, Brand- oder Schimmelpilzen in entwickelungs-
-gescichtlichem Zusammenhang stehen; die Bacterien entstehen,
-so viel wir bis jetzt wissen, immer nur aus Keimen gleicher Art.
-Durch diese Thatsachen ist freilich die Hoffnung zu Nichte
-gemacht worden, daß in der Entwickelung der Bacterien der
-Schlüssel gefunden werde für den Ursprung des Lebens auf der
-Erde überhaupt. Gäbe es auch nur ein einziges Wesen, welches
-aus ungeformter und lebloser Materie sich von selbst durch Ur-
-zeugung noch heutzutage zu einer lebendigen Zelle gestalten kann,
-so könnten wir uns vorstellen, daß die ersten Geschöpfe sich am
-Anfang auf die nämliche Weise gebildet haben. Nunmehr steht
-zwar fest, daß das Leben auf Erden einen Anfang gehabt;
-wie aber die ersten lebendigen Wesen entstanden, dafür fehlt
-es an aller Analogie; nach unserem bisherigen Wissen gleicht das
-Leben dem heiligen Feuer der Vesta, welches dadurch ewig erhalten
-wurde, daß immer der neue Brand sich an dem alten entzündete.
-Der berühmte Physiker W. Thomson hat in der geistvollen Rede,
-mit welcher er im vorigen Jahre die britische Naturforscherver-
-731)
-
-
-### 0033
-
-32
-sammlung zu Edinburg eröffnete, die Schlußfolgerung gezogen:
-da das Leben auf der Erde nicht von selbst entstanden sein könne,
-so müsse es von einem andern Weltkörper auf den unsrigen
-übertragen worden sein. Wir wissen, daß die unzähligen Me-
-teorsteine, welche auf die Erde herabgefallen sind, einst selbst-
-ständige Weltkörper oder doch Theile von solchen gewesen; in
-einzelnen Meteoriten sind Kohle und kohlenhaltige Verbindun-
-gen nachgewiesen, deren Ursprung auf organische Bildung hin-
-deutet. Es läßt sich die Möglichkeit denken, daß auch einmal
-ein lebender und entwickelungsfähiger Keim die Katastrophe
-überlebt habe, welche gewöhnlich den Ankömmling aus dem Welt-
-raum beim Eintritt in unsere Atmosphäre und beim Herabsturz auf
-die Erde in Gluth versetzt; von solchem Keime mögen alle andern
-Wesen abstammen; so mag auf die lebensleere Erde einstmals
-der Anfang des Lebens vom Himmel herabgekommen sein, wie
-nach der Mythe der belebende Feuerfunke durch Prometheus
-vom Olymp geholt wurde.
-Die Entwickelungsgeschichte der Bacterien läßt vielleicht an
-einen andern Ursprung des Lebens auf der Erde denken. Wir haben
-das Gewicht einer Bacterie auf 0,00000000157 Mgrm. berechuet;
-wir wissen, daß diese unendlich leichten Körperchen bei der Ver-
-dunstung durch die verdampfenden Wassertheilchen mit fortgeführt,
-in der Luft als Sonnenstäubchen umherschwimmen, und mit dem
-Staube wieder herabfallen, aber auch durch Luftströmungen über
-unermeßliche Strecken geführt, und gewiß auch in außerordent-
-liche Höhe getragen werden können. Möglicherweise werden
-diese Stäubchen durch aufsteigende Luftströme mitunter so weit
-emporgehoben, daß sie der Anziehung unseres Planeten entzogen,
-in den Weltraum gelangen; die Existenz eines Weltstaubes ist
-aus verschiedenen kosmischen Lichterscheinungen wahrscheinlich.
-Der Weltraum ist außerordentlich kalt; doch haben Versuche er-
-(732)
-
-
-### 0034
-
-33
-wiesen, daß selbst ein vielstündiges Einfrieren bei -180 die
-Bacterien nicht tödtet; sie verfallen durch die Kälte in Er-
-starrung, aus der sie beim Aufthauen erwachen und unter gün-
-stigen Umständen sich sofort zu vermehren beginnen. Es ist viel-
-leicht nicht unmöglich, daß ein von der Erde aufgestiegenes
-Bacterienstäubchen eine Zeit lang im Weltraum umherschwimmt,
-dann in die Atmosphäre eines anderen Weltkörpers gelangt, und
-wenn es auf diesem die geeigneten Lebensbedingungen vorfindet,
-dort sich weiter vermehrt. Es läßt sich aber auch umgekehrt
-die Möglichkeit denken, daß aus irgend einem Leben ernährenden
-Weltkörper die Keime einer Bacterie oder eines ähnlichen äußerst
-kleinen urd einfachen Wesens als Stäubchen in den Weltraum
-geführt werden, und daß ein solcher Keim schließlich in die
-Atmosphäre der Erde gelangt und auf deren Boden sich absetzt.
-So lange das Urmeer, welches einstmals die aus glühen-
-dem Zustande erstarrte Erdrinde bedeckt hatte, noch über 600
-erhitzt war, so lange war eine Entwickelung eines solchen Keimes
-nicht möglich; sobald aber die Abkühlung unter diesen Tempe-
-raturgrad gesunken war, mußte der fremde Lebenskeim in dem
-mit Salzen reich gesättigten Urmeer alle Bedingungen zu einer
-unbegrenzten Vermehrung finden; wir haben berechnet, daß in
-wenig Tagen der ganze Ocean mit solchen Wesen erfüllt sein
-könnte. Aus diesem ersten lebendigen Keim, in dem die Eigen-
-thümlichkeiten des Tier- und Pflanzenreichs noch nicht geschieden
-waren, konnte das Gesetz der Entwickelung, der Kampf ums
-Dasein, die natürliche Züchtung, die geographische Isolirung und
-manche andre bekannte oder unbekannte Kraft alle die verschiedenen
-Formen der Tier-und Pflanzenwelt fortbilden, welche in der Ver-
-gangenheit wie in der Gegenwart die Erde bewohnten und be-
-wohnen.
-Wir wissen wohl, daß wir mit solchen Betrachtungen weit
-3 (733)
-
-
-### 0035
-
-34
-über die Grenzen der exacten Naturwissenschaft hinausschweifen.
-Wenn der Naturforscher auch sich der Beschränktheit seines Wis-
-sens stets bewußt bleibt und mit Resignation sein Nichtwissen
-eingesteht, wo seine Werkzeuge, Versuch und Beobachtung, ihn im
-Stich lassen, so kann er doch nicht immer der Sehnsucht des
-Faust widerstehen "zu schauen alle Wirkungskraft und Samen,
-und er überläßt sich gern der Verlockung, durch die Phantasie
-die Lücken zu ergänzen, welche die nüchterne Forschung nicht
-auszufüllen vermag.
-(78s)
-
-
-### 0036
-
-35
-Aumerkunge n.
-) Leeuwenhoek, Arcana naturae detecta
-2 O. F Müller, Vermium terrestrium et fluviatilium historia 1774.
-Animalcula infusoria 1786.
-) Von dem Griechischen Bacterion, Stäbchen.
-) Untersuchungen über Bacterien in Beiträge zur Biologie der Pflan-
-zen. Herausgegeben von Dr. Ferdinand Cohn. Heft II. 1872, mit einer Tafel.
-) Nur bei den größten Spirillen (Fig. 5) sind neuerdings bewegliche
-Geißeln entdeckt worden, welche Wirbel im Wasser erregen und bei den Be-
-wegungen mitthätig sind.
-) Ich nehme eine Hefezelle im Mittel als eine Kugel von 0.008 Milli-
-meter Durchmesser, 0.00000025 Kubikmillimeter Inhalt. In der Preßhefe-
-fabrik zu Gießmannsdorf bei Neisse können täglich 100 Ctr. Preßhefe ge-
-wonnen werden, die aus 75 pCt. Wasser. 25 pCt. Hefepilzen besteht.
-7 Bildung von Anilinfarben aus Proteintörpern. Iournal für prak-
-tische Chemie. 1866.
-e) Schröter über einige durch Bacterien gebildete Pigmente in Cohn's
-Beiträgen zur Biologie der Pfllanzen. Heft II. 1872.
-2) Bacterium (Vibrio) synxanthum, Bact. syncyanum Ehr., Bact.
-aerugineum Schoet.
-10) Pustula maligna.
-1) Wir verdanken diese Thatsachen den Untersuchungen ron Keber,
-Hallier, Zürn, Klebs, Leyden, Recklingshausen. Iaffe, Waldeyer, Orth,
-Bubl. Hüter, Oertel, Traube und Anderen
-Truck von Gebr. nnger (Th. Grimm) in Berlin, Schönebergerstraße 17a.
-(735)
-
+Wir wissen wohl, daß wir mit solchen Betrachtungen weit über die Grenzen der exacten Naturwissenschaft hinausschweifen. Wenn der Naturforscher auch sich der Beschränktheit seines Wissens stets bewußt bleibt und mit Resignation sein Nichtwissen eingesteht, wo seine Werkzeuge, Versuch und Beobachtung, ihn im Stich lassen, so kann er doch nicht immer der Sehnsucht des Faust widerstehen "zu schauen alle Wirkungskraft und Samen," und er überläßt sich gern der Verlockung, durch die Phantasie die Lücken zu ergänzen, welche die nüchterne Forschung nicht auszufüllen vermag.
