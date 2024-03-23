@@ -16,511 +16,100 @@
 
 ---
 
+Im Jahre 1875 feiert die Wissenschaft das zweihundertjährige Jubiläum der Entdeckung einer neuen Welt durch Anton Leeuwenhoek. Ohne gelehrte Bildung, aber mit lebhaftem Forschertrieb ausgestattet, wie ihn das siebzehnte Jahrhundert, das Zeitalter der größten naturwissenschaftlichen Entdeckungen in so vielen begabten Geistern anregte, hatte Leeuwenhoek schon als Jüngling den Kaufmannsladen von Amsterdam verlassen, in den er als Lehrling eingetreten, und sich in seiner Heimath Delft mit dem bescheidenen Posten eines Beschließers der Schöppenstube begnügt, den er durch 39 Jahre verwaltete; seine Muße aber und sein großes mechanisches Talent verwendete er zur Anfertigung von Vergrößerungsgläsern, mit denen er anfänglich nach Dilettantenart Mückenflügel und Bienenstachel, Schmetterlingsschuppen und Moospflänzchen beobachtete; aber die bis dahin unerreichte Vollkommenheit seiner Mikroskope und seine klare und ausdauernde Beobachtungsgabe enthüllten ihm bald "verborgene Naturgeheimnisse"* die er in begeisterten Briefen der Königlichen Gesellschaft der Wissenschaften in London mitteilte. Im April 1675 kam Leeuwenhoek auf den Einfall, ein Glasröhrchen voll stehenden Regenwassers unter eines seiner Mikroskope zu bringen; mit staunender Bewunderung erblickte er im Wasser wunderliche Gestalten, Glöckchen, die sich aufblähten und zusammenzogen, Kügelchen, die lebhaft hin und herschossen; im ersten Augenblick glaubte er die lebendigen Atome zu erblicken, aus denen nach der Philosophie des alten Demokrit alle Körper bestehen, und aus deren Wirbelbewegungen sein Zeitgenosse Descartes von Neuem die Welt sich aufbauen ließ. Bald aber überzeugte sich Leeuwenhoek, daß er es mit Tierchen (_animalcula_) zu thun habe, die dem bloßen Auge unsichtbar, in zahlreichen Formen den Wassertropfen beleben; sie wurden später besonders reichlich in Aufgüssen von Pfeffer, Heu und anderen Tier- und Pflanzenstoffen gefunden, und erhielten deshalb den Namen der Aufguß- oder Infusionstierchen (_Infusoria_). Gerade ein Jahrhundert nach Leeuwenhoek fand sich ein Forscher in Dänemark, der 12 Jahre seines Lebens auf die Beobachtung dieser kleinsten Tiere verwendete, von denen er in den süßen und Meergewässern von Kopenhagen an 380 verschiedene Arten benannte und abbildete.* Im letzten Jahrhundert mehrte sich in raschem Verhältniß die Zahl der Naturforscher, welche mit immer vollkommeneren Instrumenten in die unsichtbare Welt einzudringen suchten; außer den zahlreichen Tiergeschlechtern wurde auch eine ganz eigentümliche mikroskopische Flora entdeckt, deren Gestaltung und Entwickelung durchaus verschieden ist von den sichtbaren Gewächsen. War Leeuwenhoek der Columbus dieser neuen Welt, so können wir Ehrenberg* als den Humboldt derselben bezeichnen; denn seit dem Jahre 1829 bis auf den heutigen Tag hat Ehrenberg mit eisernem Fleiße deren verborgene Gebiete bis an die äußersten Grenzen durchforscht, und nicht blos die mikroskopischen Wesen gründlicher und getreuer als seine Vorgänger beschrieben, abgebildet und geordnet, sondern auch die ungeahnte Bedeutung enthüllt, welche den Geschöpfen der unsichtbaren Welt in der gesammten Naturordnung zukommt, nicht blos in der Gegenwart, sondern auch in früheren geologischen Zeitaltern.
 
+*) Leeuwenhoek, _Arcana naturae detecta_.
 
-### 0004
+*) O. F. Müller, _Vermium terrestrium et fluviatilium historia_ 1774. _Animalcula infusoria_ 1786.
 
-Im Jahre 1875 feiert die Wissenschaft das zweihundertjährige
-Jubiläum der Entdeckung einer neuen Welt durch Anton Leeuwen-
-hoek. Ohne gelehrte Bildung, aber mit lebhaftem Forscher-
-trieb ausgestattet, wie ihn das siebzehnte Jahrhundert, das Zeitalter
-der größten naturwissenschaftlichen Entdeckungen in so vielen be-
-gabten Geistern anregte, hatte Leeuwenhoek schon als Jüngling
-den Kaufmannsladen von Amsterdam verlassen, in den er als
-Lehrling eingetreten, und sich in seiner Heimath Delft mit dem
-bescheidenen Posten eines Beschließers der Schöppenstube begnügt,
-den er durch 39 Jahre verwaltete; seine Muße aber und sein
-großes mechanisches Talent verwendete er zur Anfertigung von
-Vergrößerungsgläsern, mit denen er anfänglich nach Dilettanten-
-art Mückenflügel und Bienenstachel, Schmetterlingsschuppen und
-Moospflänzchen beobachtete; aber die bis dahin unerreichte Voll-
-kommenheit seiner Mikroskope und seine klare und ausdauernde
-Beobachtungsgabe enthüllten ihm bald "verborgene Naturgeheim-
-nissel) die er in begeisterten Briefen der Königlichen Gesellschaft
-der Wissenschaften in London mittheilte. Im April 1675 kam Leeu-
-wenhoek auf den Einfall, ein Glasröhrchen voll stehenden Regen-
-wassers unter eines seiner Mikroskope zu bringen; mit staunender
-Bewunderung erblickte er im Wasser wunderliche Gestalten,
-Glöckchen, die sich aufblähten und zusammenzogen, Kügelchen, die
+*) Von dem Griechischen _Bakterion_, Stäbchen.
 
-### 0005
+Jedermann weiß, in wie verschiedenen Größenverhältnissen das Leben der sichtbaren Welt sich verkörpert. Zu den kleinsten Tieren, die das unbewaffnete Auge noch unterscheidet, gehören die Milben, die im Käse oder auf zuckerreichen Früchten oft in unzähligen Schaaren nisten; ihre Größe verhält sich zu der des Menschen, etwa wie der Sperling zum Straßburger Münster; ähnlich mag das Verhältniß sein zwischen der Riesentanne und dem Moose, das auf ihrer Rinde wuchert. Von den Tierchen die Leeuwenhoek entdeckte, giebt derselbe an, daß ihre Größe sich zur Milbe erhalte, wie die Biene zum Gaul. Je mehr in den letzten Jahrzehnten die Mikroskope verbessert und ihre Vergrößerungskraft gesteigert wurde, desto kleinere Wesen wurden der scharfen Beobachtung zugänglich; denn unter den Tieren und Pflanzen der unsichtbaren Welt finden sich noch ähnliche Größenunterschiede, wie zwischen dem Hering und dem Walfisch.
 
-lebhaft hin und herschossen; im ersten Augenblick glaubte er die
-lebendigen Atome zu erblicken, aus denen nach der Philosophie
-des alten Democrit alle Körper bestehen, und aus deren Wirbel-
-bewegungen sein Zeitgenosse Descartes von Neuem die Welt sich
-aufbauen ließ. Bald aber überzeugte sich Leeuwenhoek, daß er
-es mit Tierchen (animalcula) zu thun habe, die dem bloßen
-Auge unsichtbar, in zahlreichen Formen den Wassertropfen beleben;
-sie wurden später besonders reichlich in Aufgüssen von Pfeffer, Heu
-und anderen Tier- und Pflanzenstoffen gefunden, und erhielten
-deshalb den Namen der Aufguß- oder Infusionsthierchen (Infu-
-soria). Gerade ein Jahrhundert nach Leeuwenhoek fand sich einFor-
-scher in Dänemark, der 12 Jahre seines Lebens auf die Beobachtung
-dieser kleinsten Tiere verwendete, von denen er in den süßen
-und Meergewässern von Kopenhagen an 380 verschiedene Arten
-benannte und abbildete.) Im letzten Jahrhundert mehrte sich in
-raschem Verhältniß die Zahl der Naturforscher, welche mit immer
-vollkommeneren Instrumenten in die unsichtbare Welt einzudrin-
-gen suchten; außer den zahlreichen Tiergeschlechtern wurde auch
-eine ganz eigenthümliche mikroskopische Flora entdeckt, deren Ge-
-staltung und Entwickelung durchaus verschieden ist von den sicht-
-baren Gewächsen. War Leeuwenhoek der Columbus dieser neuen
-Welt, so können wir Ehrenberg) als den Humboldt derselben
-bezeichnen; denn seit dem Jahre 1829 bis auf den heutigen Tag
-hat Ehrenberg mit eisernem Fleiße deren verborgene Gebiete
-bis an die äußersten Grenzen durchforscht, nnd nicht blos die
-mikroskopischen Wesen gründlicher und getreuer als seine Vor-
-gänger beschrieben, abgebildet und geordnet, sondern auch die
-ungeahnte Bedeutung enthüllt, welche den Geschöpfen der unsicht-
-baren Welt in der gesammten Naturordnung zukommt, nicht blos in
-der Gegenwart, sondern auch in früheren geologischen Zeitaltern.
-Jedermann weiß, in wie verschiedenen Größenverhältnissen
+Je kleiner aber die Wesen, desto einfacher zeigte sich ihr Bau, desto unvollkommener ihre Lebenstätigkeit, desto tiefer ihre Stellung in der Rangordnung der Geschöpfe. Unter den Tieren der mikroskopischen Welt sind nur äußerst wenige, welche die Organenfülle eines Insects, eines Krebses, selbst eines Wurmes besitzen; die eigentlichen Infusionstierchen stehen auf der untersten Stufe des Tierreichs. Ebenso finden wir unter den mikroskopischen Pflanzen keine einzige, welche den entwickelteren Bau der blühenden Gewächse erreicht, oder auch nur der tieferen Klasse der Farne angehört; nur die niedersten Pflanzenformen, die wir gewöhnlich als Algen und Pilze bezeichnen, bilden die Wälder und Wiesen der unsichtbaren Welt.
 
+Je mehr sich aber der innere Bau der mikroskopischen Wesen vereinfacht, desto weniger treten die Merkmale hervor, welche in der sichtbaren Welt Tiere und Pflanzen so leicht unterscheiden. Den Infusionstierchen fehlen Muskeln und Nerven; Gefäße und Athmungsorgane sind nur äußerst unvollkommen entwickelt; auf der andern Seite zeigen die mikroskopischen Pflanzen selbstständige Bewegungen, und selbst Bewegungsorgane, wie wir sie nur bei Tieren zu finden gewohnt sind. In den niedersten Wesen endlich scheint Tier und Pflanze in einander geflossen, und der Naturforscher gerät in Zweifel, welchem der beiden Reiche er sie zuweisen soll.
 
-### 0006
+Die kleinsten aber und zugleich die allereinfachsten und niedersten aller lebenden Wesen nennen wir Bakterien*; sie bilden die Grenzmark des Lebens; jenseits derselben ist nichts Lebendiges mehr vorhanden, soweit wenigstens unsere heutigen mikroskopischen Hülfsmittel reichen. Und diese sind nicht gering; die stärksten unserer Vergrößerungsgläser, die Immersionssysteme von Hartnack geben 3-4000fache Vergrößerungen; und könnte man einen Menschen unter einem solchen Linsensystem ganz überschauen, er würde so groß erscheinen, wie der Montblanc oder gar der Chimborasso. Aber selbst unter diesen kolossalen Vergrößerungen sehen die kleinsten Bakterien nicht viel größer aus, als die Punkte und Kommas eines guten Drucks; von ihren inneren Teilen ist wenig oder gar Nichts zu unterscheiden, und selbst die Existenz würde von den meisten verborgen bleiben, wenn sie nicht in unendlichen Mengen gesellig lebten. Diese kleinsten Bakterien verhalten sich ihrer Größe nach zum Menschen, etwa wie ein Sandkorn zum Montblanc.
 
-das Leben der sichtbaren Welt sich verkörpert. Zu den kleinsten
-Tieren, die das unbewaffnete Auge noch unterscheidet, gehören
-die Milben, die im Käse oder auf zuckerreichen Früchten oft in
-unzähligen Schaaren nisten; ihre Größe verhält sich zu der des
-Menschen, etwa wie der Sperling zum Straßburger Münster;
-ähnlich mag das Verhältniß sein zwischen der Riesentanne und
-dem Moose, das auf ihrer Rinde wuchert. Von den Tierchen
-die Leeuwenhoek entdeckte, giebt derselbe an, daß ihre Größe sich
-zur Milbe erhalte, wie die Biene zum Gaul. Ie mehr in den
-letzten Jahrzehnten die Mikroskope verbessert und ihre Ver-
-größerungskraft gesteigert wurde, desto kleinere Wesen wurden der
-scharfen Beobachtung zugänglich; denn unter den Tieren und
-Pflanzen der unsichtbaren Welt finden sich noch ähnliche Größen-
-unterschiede, wie zwischen dem Hering und dem Walfisch.
-Ie kleiner aber die Wesen, desto einfacher zeigte sich ihr
-Bau, desto unvollkommener ihre Lebensthätigkeit, desto tiefer ihre
-Stellung in der Rangordnung der Geschöpfe. Unter den Tieren
-der mikroskopischen Welt sind nur äußerst wenige, welche die
-Organenfülle eines Insects, eines Krebses, selbst eines Wurmes
-besitzen; die eigentlichen Infusionsthierchen stehen auf der unter-
-sten Stufe des Tierreichs. Ebenso finden wir unter den
-mikroskopischen Pflanzen keine einzige, welche den entwickelteren
-Bau der blühenden Gewächse erreicht, oder auch nur der tieferen
-Klasse der Farne angehört; nur die niedersten Pflanzenformen,
-die wir gewöhnlich als Algen und Pilze bezeichnen, bilden die
-Wälder und Wiesen der unsichtbaren Welt.
-Ie mehr sich aber der innere Bau der mikroskopischen We-
-sen vereinfacht, desto weniger treten die Merkmale hervor, welche
-in der sichtbaren Welt Tiere und Pflanzen so leicht unterscheiden.
-Den Infusionsthierchen fehlen Muskeln und Nerven; Gefäße und
-Athmungsorgane sind nur äußerst unvollkommen entwickelt; auf
+*) Untersuchungen über Bakterien in "Beiträge zur Biologie der Pflanzen." Herausgegeben von Dr. Ferdinand Cohn. Heft 2. 1872, mit einer Tafel.
 
-### 0007
+Ist es nun schon an und für sich wichtig, die kleinsten zugleich und die einfachsten aller lebenden Wesen genauer kennen zu lernen, so steigert sich unser Interesse an denselben durch die Erkenntniß, daß gerade diese kleinsten Wesen von der allergrößten Bedeutung sind, daß sie mit unsichtbarer, doch unwiderstehlicher Gewalt die wichtigsten Vorgänge der lebendigen und leblosen Natur beherrschen und selbst in das Dasein des Menschen zugleich geheimniß- und verhängnißvoll eingreifen.
 
-der andern Seite zeigen die mikroskopischen Pflanzen selbstständige
-Bewegungen, und selbst Bewegungsorgane, wie wir sie nur bei
-Tieren zu finden gewohnt sind. In den niedersten Wesen end-
-lich scheint Tier und Pflanze in einander geflossen, und der
-Naturforscher geräth in Zweifel, welchem der beiden Reiche er sie
-zuweisen soll.
-Die kleinsten aber und zugleich die allereinfachsten und
-niedersten aller lebenden Wesen nennen wir Bacterien;) sie
-bilden die Grenzmark des Lebens; jenseits derselben ist nichts
-Lebendiges mehr vorhanden, soweit weuigstens unsere heutigen mikro-
-skopischen Hülfsmittel reichen. Und diese sind nicht gering; die
-stärksten unserer Vergrößerungsgläser, die Immersionssysteme von
-Hartnack geben 3-4000fache Vergrößerungen; und könnte man
-einen Menschen unter einem solchen Linsensystem ganz überschauen,
-er würde so groß erscheinen, wie der Montblanc oder gar der
-Chimborasso. Aber selbst unter diesen kolossalen Vergrößerungen
-sehen die kleinsten Bacterien nicht viel größer aus, als die Punkte
-und Kommas eines guten Drucks; von ihren inneren Theilen ist
-wenig oder gar Nichts zu unterscheiden, und selbst die Existenz
-würde von den meisten verborgen bleiben, wenn sie nicht in
-unendlichen Mengen gesellig lebten. Diese kleinsten Bacterien ver-
-halten sich ihrer Größe nach zum Menschen, etwa wie ein Sand-
-korn zum Montblanc.
-Ist es nun schon an und für sich wichtig, die kleinsten zu-
-gleich und die einfachsten aller lebenden Wesen genauer kennen zu
-lernen, so steigert sich unser Interesse an denselben durch die Erkennt-
-niß, daß gerade diese kleinsten Wesen von der allergrößten Be-
-deutung sind, daß sie mit unsichtbarer, doch unwiderstehlicher
-Gewalt die wichtigsten Vorgänge der lebendigen und leblosen
-Natur beherrschen und selbst in das Dasein des Menschen zugleich
-geheimniß- und verhängnißvoll eingreifen.
+Die Gestalt der Bakterien gleicht bald einer Kugel, oder einem Ei, bald einem kurzen oder längeren Stäbchen oder Faden, bald einem Korkzieher oder einer Schraube. Ihr Körper besteht aus einer meist farblosen eiweißartigen Substanz, in der starkglänzende Fettkörnchen eingelagert sind, und die von einer dünnen, in Kali unlöslichen Haut eingeschlossen ist. Nach der Gestalt können wir Kugel- Stäbchen- Faden- und Schraubenbakterien unterscheiden; nach der Sprache der Wissenschaft werden die Bakterien in Gattungen und Arten verteilt; der Verfasser dieses Aufsatzes hat in seiner neuesten Bearbeitung der Bakterien* 6 Gattungen unterschieden, die kugeligen und eirunden als _Micrococcus_, (Fig. 1.) die kurzen Stäbchen als _Bacterium_, (Fig. 2.) die geraden Fädchen als _Bacillus_, (Fig. 3.) die wellig gelockten als _Vibrio_, (Fig. 4.) die kurzen steifen Schrauben als _Spirillum_, (Fig. 5.) endlich die langen biegsamen Spiralen als _Spirochaete_ (Fig. 6.) bezeichnet.
 
-### 0008
+*) Nur bei den größten Spirillen (Fig. 5) sind neuerdings bewegliche Geißeln entdeckt worden, welche Wirbel im Wasser erregen und bei den Bewegungen mittätig sind.
 
-Die Gestalt der Bacterien gleicht bald einer Kugel, oder
-einem Ei, bald einem kurzen oder längeren Stäbchen oder Faden,
-bald einem Korkzieher oder einer Schraube. Ihr Körper besteht
-aus einer meist farblosen eiweißartigen Substanz, in der stark-
-glänzende Fettkörnchen eingelagert sind, und die von einer dün-
-nen, in Kali unlöslichen Haut eingeschlossen ist. Nach der Ge-
-stalt können wir Kugel- Stäbchen- Faden- und Schrau-
-benbacterien unterscheiden; nach der Sprache der Wissenschaft
-werden die Bacterien in Gattungen und Arten vertheilt; der
-Verfasser dieses Aufsatzes hat in seiner neuesten Bearbeitung der
-Bacterien) 6 Gattungen unterschieden, die kugeligen und eirunden
-als Micrococcus, (Fig. I.) die kurzen Stäbchen als Bacterium,
-(Fig. 2.) die geraden Fädchen als Bacillus, (Fig. 3.) die wellig
-gelockten als Vibrio, (Fig. 4.) die kurzen steifen Schrauben als
-Spirillum, (Fig. 5.) endlich die langen biegsamen Spiralen als
-Spirochaete (Fig. 6.) bezeichnet.
-Fig. 1. Fig. 2. Fig. 3. Fig. 4. Fig. 5. Fig. 6. Fig. 7.
-Fig. 1. Micrococcus. Fig. 2. Bacterium Termo. Fig. 3. Bacillus subtilis.
-Fig. 4. Vibrio Rugula. Fig. 5. Spirillum volutans. Fig. 6. Spirochaste
-plicatilis. Fig. 7. Gallert von Kugel- und Stäbchenbacterien.
-Fast alle Bacterien besitzen zwei verschiedene Lebenszustände,
-einen beweglichen und einen ruhenden. Unter gewissen Bedin-
-gungen sind sie außerordentlich lebhaft bewegt und wenn sie in
-dichtem Gewimmel den Wassertropfen erfüllen, bieten die nach
-207)
+[Fig. 1. --- _Micrococcus._]()
 
+[Fig. 2. --- _Bacterium Termo._]()
 
-### 0009
+[Fig. 3. --- _Bacillus subtilis._]()
 
-allen Richtungen durch einander fahrenden Bacterien einen über-
-aus fesselnden Anblick, den man mit einem Mückenschwarm oder
-einem Ameisenhaufen vergleichen kann. Die Bacterien schwimmen
-hurtig vorwärts, dann ohne umzukehren ein Stück zurück; oder
-sie ziehen in Bogenlinien dahin, bald langsam zitternd und
-wackelnd, jetzt in plötzlichem Sprunge raketenartig fortschießend,
-bald darauf der Quere nach gedreht wie ein Kreisel, oder längere
-Zeit ruhend, um plötzlich wie der Blitz auf und davon zu fahren.
-Die längeren Fadenbacterien biegen ihren Körper beim Schwim-
-men, bald schwerfällig, bald rasch und gewandt, als bemühten sie
-sich durch Hindernisse ihre Bahn zu finden, wie ein Fisch, der
-zwischen Wasserpflanzen seinen Weg sucht. Dann stehen sie eine
-Zeit lang still, als müßten sie eine Weile ausruhen; plötzlich
-zittert der kleine Faden und schwimmt zurück, um bald darauf
-wieder vorwärts zu steuern. Mit all diesen Bewegungen ist stets
-eine rasche Achsendrehung verbunden, wie bei einer in der Mutter
-sich bewegenden Schraube; dies wird besonders deutlich, wenn
-die Stäbchen geknickt sind; dann sieht man sie gleichsam tau-
-melnd sich umherwälzen. Wenn die wellenförmigen Vibrionen
-und die schraubenförmigen Spirillen sich rasch um ihre Achse
-drehen, so erregen sie eine eigenthümliche Sinnestäuschung, als
-ob sie sich aalgleich schlängelten, obwohl sie völlig steif sind; oft
-zucken sie meteorartig hin und her, daß sie dem Beobachter kaum
-zum Bewußtsein kommen, oder rollen rasch durch das Gesichts-
-feld; während sie jetzt an einem Ende sich festhaltend, sich mit
-dem andern im Kreise bewegen, gleich einer um einen Faden ge-
-drehten Schleuder, sieht man sie bald darauf sich langsam durch
-das Wasser schrauben.
-Fast alle älteren Beobachter haben die Bacterien als Tiere
-betrachtet, da ihre Bewegungen als willkührliche aufgefaßt wur-
-den. Allerdings sind es innere Lebensthätigkeiten. welche die
+[Fig. 4. --- _Vibrio Rugula._]()
 
+[Fig. 5. --- _Spirillum volutans._]()
 
-### 0010
+[Fig. 6. --- _Spirochaete plicatilis._]()
 
-Bewegungen der Bacterien veranlassen und die bewegende Kraft
-ist um so räthselhafter, als keine Bewegungsorgane sichtbar wer-
-den.) Dennoch ist kein Zweifel, daß der Anschein der Willkühr
-nur Täuschung, daß bei den Bacterien keine Seelenthätigkeiten
-im Spiele sind, wie sie im Begriff der Willkühr liegen, und
-in der That die Bewegungen wenigstens der höheren Tiere be-
-herrschen. Ganz ähnliche Bewegungen, wie schon bemerkt, wer-
-den bei vielen mikroskopischen Pflanzen beobachtet, entweder an-
-dauernd, wie bei den Kieselzellen (Diatomeen) und Schwingfa-
-den (Oscillarien), oder vorübergehend während der Fort-
-pflanzung, wie bei den Schwärmsporen und Samenkörperchen der
-Algen und Pilze.
-Die gesammte Entwickelung der Bacterien macht es in höch-
-stem Grade wahrscheinlich, daß sie ins Pflanzenreich gehören und
-in die nächste Verwandtschast der Oscillarien gehören. Auch
-wechselt bei den Bacterien mit dem beweglichen ein ruhender Zu-
-stand, wo sie von gewöhnlichen Pflanzenzellen sich durchaus nicht
-unterscheiden; sie schwärmen nur bei günstiger Temperatur,
-reicher Nahrung und Anwesenheit von Sauerstoff; unter ungün-
-stigen Umständen sind sie bewegungslos; gewisse Arten, wie die
-Kugelbacterien und die Bacterien des Milzbrands, scheinen sich nie
-zu bewegen.
-Wie alle lebenden Wesen, vermögen auch die Bacterien sich
-fortzupflanzen; diese Fortpflanzung beruht auf der Quertheilung.
-Die Bacterie wächst, bis sie etwa das Doppelte ihrer ursprüng-
-lichen Größe erreicht hat; dann schnürt sie sich in der Mitte ein,
-wie eine 8, und zerbricht schließlich in ihre zwei Hälften, von
-denen jede in kurzer Zeit aufs Neue sich in zwei Theile theilt.
-Wegen des raschen Verlaufs dieser Vorgänge findet man daher
-die Bacterien fast immer in der Vermehrung, in der Mitte ein-
-aeschnürt oder paarweise zusammenhängend (Fig. I-4).
+[Fig. 7. --- Gallert von Kugel- und Stäbchenbakterien.]()
 
+Fast alle Bakterien besitzen zwei verschiedene Lebenszustände, einen beweglichen und einen ruhenden. Unter gewissen Bedingungen sind sie außerordentlich lebhaft bewegt und wenn sie in dichtem Gewimmel den Wassertropfen erfüllen, bieten die nach allen Richtungen durch einander fahrenden Bakterien einen überaus fesselnden Anblick, den man mit einem Mückenschwarm oder einem Ameisenhaufen vergleichen kann. Die Bakterien schwimmen hurtig vorwärts, dann ohne umzukehren ein Stück zurück; oder sie ziehen in Bogenlinien dahin, bald langsam zitternd und wackelnd, jetzt in plötzlichem Sprunge raketenartig fortschießend, bald darauf der Quere nach gedreht wie ein Kreisel, oder längere Zeit ruhend, um plötzlich wie der Blitz auf und davon zu fahren. Die längeren Fadenbakterien biegen ihren Körper beim Schwimmen, bald schwerfällig, bald rasch und gewandt, als bemühten sie sich durch Hindernisse ihre Bahn zu finden, wie ein Fisch, der zwischen Wasserpflanzen seinen Weg sucht. Dann stehen sie eine Zeit lang still, als müßten sie eine Weile ausruhen; plötzlich zittert der kleine Faden und schwimmt zurück, um bald darauf wieder vorwärts zu steuern. Mit all diesen Bewegungen ist stets eine rasche Achsendrehung verbunden, wie bei einer in der Mutter sich bewegenden Schraube; dies wird besonders deutlich, wenn die Stäbchen geknickt sind; dann sieht man sie gleichsam taumelnd sich umherwälzen. Wenn die wellenförmigen Vibrionen und die schraubenförmigen Spirillen sich rasch um ihre Achse drehen, so erregen sie eine eigentümliche Sinnestäuschung, als ob sie sich aalgleich schlängelten, obwohl sie völlig steif sind; oft zucken sie meteorartig hin und her, daß sie dem Beobachter kaum zum Bewußtsein kommen, oder rollen rasch durch das Gesichtsfeld; während sie jetzt an einem Ende sich festhaltend, sich mit dem andern im Kreise bewegen, gleich einer um einen Faden gedrehten Schleuder, sieht man sie bald darauf sich langsam durch das Wasser schrauben.
 
-### 0011
+Fast alle älteren Beobachter haben die Bakterien als Tiere betrachtet, da ihre Bewegungen als willkührliche aufgefaßt wurden. Allerdings sind es innere Lebenstätigkeiten, welche die Bewegungen der Bakterien veranlassen und die bewegende Kraft ist um so rätselhafter, als keine Bewegungsorgane sichtbar werden.* Dennoch ist kein Zweifel, daß der Anschein der Willkühr nur Täuschung, daß bei den Bakterien keine Seelentätigkeiten im Spiele sind, wie sie im Begriff der Willkühr liegen, und in der Tat die Bewegungen wenigstens der höheren Tiere beherrschen. Ganz ähnliche Bewegungen, wie schon bemerkt, werden bei vielen mikroskopischen Pflanzen beobachtet, entweder andauernd, wie bei den Kieselzellen (_Diatomeen_) und Schwingfaden (_Oscillarien_), oder vorübergehend während der Fortpflanzung, wie bei den Schwärmsporen und Samenkörperchen der Algen und Pilze.
 
-10
-Ie wärmer die Luft, desto rascher verläuft die Theilung der
-Bacterien, desto stärker ist ihre Vermehrung; bei niederer Tempe-
-ratur wird sie langsamer und hört in der Nähe des Gefrier-
-punktes gänzlich auf. Es verlohnt wohl der Mühe, sich durch
-Rechnung eine Vorstellung von der unglaublichen Massenent-
-wickelung zu machen, deren diese kleinsten aller Wesen unter gün-
-stigen Bedingungen durch ihre Vermehrung fähig sind.
-Wir nehmen an, daß eine Bacterie sich innerhalb einer
-Stunde in 2, diese wieder nach einer Stunde in 4, nach 3
-Stunden in 8 theilen und sofort; nach 24 Stunden beträgt die Zahl
-der Bacterien bereits über 164 Million (16,777,220); nach 2
-Tagen würde sie zu der ungeheuren Zahl von 281 Billionen,
-nach 3 Tagen zu 47 Trillionen anwachsen; nach einer Woche
-würde ihre Anzahl sich nur durch eine Ziffer von 51 Stellen
-ausdrücken lassen.
-Um diese Zahlen leichter faßlich zu machen, wollen wir die
-Masse und das Gewicht berechnen, welches aus einer Bacterie in Folge
-ihrer Vermehrung hervorgehen kann. Die einzelnen Körperchen der
-gemeinsten Art der Stäbchenbacterien (Bacterium Termo, Fig. 2)
-haben die Gestalt kurzer Cylinder, von rd Millimeter im
-Durchmesser und etwa zl Millimeter Länge. Denken wir uns
-ein Würfelförmiges Hohlmaß von ein Millimeter Seite (ein
-Kubikmillimeter), so würde dasselbe nach den eben angegebenen
-Verhältnissen von 633 Millionen Stäbchenbacterienohne Zwischen-
-raum ausgefüllt werden. Nach 24 Stunden würden dieaus einem ein-
-zigen Stäbchen hervorgegangenen Bacterien etwa den vierzigsten
-Theil eines Kubikmillimeters einnehmen; aber schon am Ende
-des folgenden Tages würden die Bacterien einen Raum erfüllen,
-der 442,570 solcher Würfel, oder was dasselbe ist, etwa 4 Liter oder
-44z Cubikcentimetern gleich kommt. Nehmen wir den Raum, den
-das Weltmeer einnimmt, gleich der Erdoberfläche, und seine Tiefe
+*) Ich nehme eine Hefezelle im Mittel als eine Kugel von 0.008 Millimeter Durchmesser, 0.00000025 Kubikmillimeter Inhalt. In der Preßhefefabrik zu Gießmannsdorf bei Neiffe können täglich 100 Ztr. Preßhefe gewonnen werden, die aus 75 pZt. Wasser, 25 pZt. Hefepilzen besteht.
 
+Die gesammte Entwickelung der Bakterien macht es in höchstem Grade wahrscheinlich, daß sie ins Pflanzenreich gehören und in die nächste Verwandtschast der Oscillarien gehören. Auch wechselt bei den Bakterien mit dem beweglichen ein ruhender Zustand, wo sie von gewöhnlichen Pflanzenzellen sich durchaus nicht unterscheiden; sie schwärmen nur bei günstiger Temperatur, reicher Nahrung und Anwesenheit von Sauerstoff; unter ungünstigen Umständen sind sie bewegungslos; gewisse Arten, wie die Kugelbakterien und die Bakterien des Milzbrands, scheinen sich nie zu bewegen.
 
-### 0012
+Wie alle lebenden Wesen, vermögen auch die Bakterien sich fortzupflanzen; diese Fortpflanzung beruht auf der Querteilung. Die Bakterie wächst, bis sie etwa das Doppelte ihrer ursprünglichen Größe erreicht hat; dann schnürt sie sich in der Mitte ein, wie eine 8, und zerbricht schließlich in ihre zwei Hälften, von denen jede in kurzer Zeit aufs Neue sich in zwei Teile teilt. Wegen des raschen Verlaufs dieser Vorgänge findet man daher die Bakterien fast immer in der Vermehrung, in der Mitte eingeschnürt oder paarweise zusammenhängend (Fig. 1-4).
 
-11
-im Mittel gleich einer Meile, so ist der Gesammtinhalt des
-Oceans 28 Millionen Cubikmeilen; bei stetig fortschreiender Ver-
-mehrung würden die aus einem Keim entstammenden Bacterien
-schon nach weniger als 5 Tagen das ganze Weltmeer vollständig
-erfüllen; ihre Zahl würde sich daun nur durch eine Ziffer von
-37 Stellen ausdrücken lassen.
-Noch überraschender sind die Gewichtsverhältnisse. Setzen
-wir das specifische Gewicht einer Bacterie dem des Wassers gleich,
-was von der Wahrheit nicht viel abweichen kann, so ergiebt sich
-aus den oben angeführten Maßen, daß ein einziges Stäbchen
-0.000,000,001,571 Milligramm, oder daß 636 Milliarden Bacterien
-ein Gramm, oder 636,000 Milliarden ein Kilogramm wiegen.
-Nach 24 Stunden würde das Gewicht der Bacterien ungefähr
-Milligramm, nach 48 Stunden fast 1 Pfd. (442 Gramm)
-betragen, nach 3 Tagen dagegen nahezu 74 Million Kilogramm,
-oder ein Gewicht von 148,356 Centnern erreichen.
-Man halte solche Berechnungen nicht für müßige Spielerei;
-sie allein machen uns die kolossalen Arbeitsleistungen der Bacterien
-verständlich. Auch stützen sie sich nur auf solche Voraussetzungen,
-die von der Natur selbst gegeben sind; wäre z. B. die Dauer
-des Theilungsvorganges in Wirklichkeit auch erheblich länger als
-die von uns angenommene Stunde, so würden die berechneten
-Zahlen eben nur ein paar Stunden oder Tage später zutreffen.
-Wenn freilich in begrenztem Raume niemals jene Werthe auch
-nur annähernd erreicht werden, so liegt dies nicht etwa daran,
-daß die Vermehrungsfähigkeit der Bacterien hinter der Rechnung
-zurückbleibt, sondern allein an der beschränkten Nahrung; selbst-
-verständlich erzeugen die Bacterien den Stoff nicht selbst, der ih-
-ren Körper bildet, sondern sie nehmen ihn von außen als Nah-
-rung auf, und es könuen sich daher nicht mehr Bacterien bilden,
-als ihnen Nahrung geboten wird. Dazu kommt, daß die übrigen
-(711)
+Je wärmer die Luft, desto rascher verläuft die Teilung der Bakterien, desto stärker ist ihre Vermehrung; bei niederer Temperatur wird sie langsamer und hört in der Nähe des Gefrierpunktes gänzlich auf. Es verlohnt wohl der Mühe, sich durch Rechnung eine Vorstellung von der unglaublichen Massenentwickelung zu machen, deren diese kleinsten aller Wesen unter günstigen Bedingungen durch ihre Vermehrung fähig sind.
 
+Wir nehmen an, daß eine Bakterie sich innerhalb einer Stunde in 2, diese wieder nach einer Stunde in 4, nach 3 Stunden in 8 teilen und sofort; nach 24 Stunden beträgt die Zahl der Bakterien bereits über 16 1/2 Million (16,777,220); nach 2 Tagen würde sie zu der ungeheuren Zahl von 281 1/2 Billionen, nach 3 Tagen zu 47 Trillionen anwachsen; nach einer Woche würde ihre Anzahl sich nur durch eine Ziffer von 51 Stellen ausdrücken lassen.
 
-### 0013
+Um diese Zahlen leichter faßlich zu machen, wollen wir die Masse und das Gewicht berechnen, welches aus einer Bakterie in Folge ihrer Vermehrung hervorgehen kann. Die einzelnen Körperchen der gemeinsten Art der Stäbchenbakterien (_Bacterium Termo_, Fig. 2) haben die Gestalt kurzer Cylinder, von 1/1000 Millimeter im Durchmesser und etwa 1/500 Millimeter Länge. Denken wir uns ein Würfelförmiges Hohlmaß von ein Millimeter Seite (ein Kubikmillimeter), so würde dasselbe nach den eben angegebenen Verhältnissen von 633 Millionen Stäbchenbakterien ohne Zwischenraum ausgefüllt werden. Nach 24 Stunden würden die aus einem einzigen Stäbchen hervorgegangenen Bakterien etwa den vierzigsten Teil eines Kubikmillimeters einnehmen; aber schon am Ende des folgenden Tages würden die Bakterien einen Raum erfüllen, der 442,570 solcher Würfel, oder was dasselbe ist, etwa 1/2 Liter oder 44 1/2 Cubikcentimetern gleich kommt. Nehmen wir den Raum, den das Weltmeer einnimmt, gleich 2/3 der Erdoberfläche, und seine Tiefe im Mittel gleich einer Meile, so ist der Gesammtinhalt des Oceans 928 Millionen Cubikmeilen; bei stetig fortschreiender Vermehrung würden die aus einem Keim entstammenden Bakterien schon nach weniger als 5 Tagen das ganze Weltmeer vollständig erfüllen; ihre Zahl würde sich daun nur durch eine Ziffer von 37 Stellen ausdrücken lassen.
 
-12
-Pflanzen und Tiere auf dieselben Nährstoffe angewiesen find,
-und sich gegenseitig die Existenz streitig machen; jener grausame
-Kampf ums Dasein, der nach altem Brauch den Unterliegenden zu-
-gleich ausrottet, hält die Vermehrung der Bacterien, wie aller
-übrigen Wesen, in Schranken; nur wo jene die Oberhand behal-
-ten, vermögen sie sich ihrer Mitbewerber, die zugleich ihre Tod-
-feinde sind, zu erwehren. Die Preßhefefabriken geben uns aber
-ein anschauliches Beispiel, zu welch colossalen Massenverhältnissen
-sich mikroskopische Körperchen vermehren können, wenn ihnen aus-
-reichende Nahrung geboten, und die Concurrenz anderer Wesen
-sorgfältig fern gehalten wird. Der Hefepilz übertrifft die Stäb-
-chenbacterien in Masse und Gewicht etwa um das 160fache;)
-das Gewicht einer Hefezelle ist also gleich 0.00000025 Milligramm;
-oder 40 Millionen Hefezellen wiegen 1 Kilogramm. Werden
-nun in riesigen, mit geigneter Nahrung reichlich erfüllten Bot-
-tichen die Hefezellen ungestörter Vermehrung überlassen, so kön-
-nen in großen Fabriken innerhalb 24 Stunden über 100 Cent-
-ner Preßhefe erzeugt werden; möglicherweise sind die mehr als
-50 Milliarden Zellen, die solche Masse bilden, im Verlauf eines
-Tages aus einem einzigen Keime hervorgegangen. --
-Wir kennen bei den Bacterien bis jetzt keine andere Ver-
-mehrung als die eben geschilderte Zweitheilung; die Erzeugung
-von Eiern oder Sporen, wie sie bei der Fortpflanzung aller üb-
-rigen Pflanzen undTiere gebildet werden, istbei diesen einfachsten We-
-sen noch nicht beobachtet. Nach der Theilung entfernen sich entweder
-die Bacterienhälften, und schwärmen als selbstständige Wesen da-
-von; oder sie bleiben kettenartig an einander gereiht und bilden
-dann längere oder kürzere Fäden; in andern Fällen bleiben
-ganze Generationen in Colonien, Nestern oder Ballen vereint, oder
-sie verbinden sich zu Haufen, welche schon dem bloßen Auge
-wie farblose oder auch farbige Gallert- oder Schleimmassen er-
-(712)
+Noch überraschender sind die Gewichtsverhältnisse. Setzen wir das specifische Gewicht einer Bakterie dem des Wassers gleich, was von der Wahrheit nicht viel abweichen kann, so ergiebt sich aus den oben angeführten Maßen, daß ein einziges Stäbchen 0.000,000,001,571 Milligramm, oder daß 636 Milliarden Bakterien ein Gramm, oder 636,000 Milliarden ein Kilogramm wiegen. Nach 24 Stunden würde das Gewicht der Bakterien ungefähr 1/40 Milligramm, nach 48 Stunden fast 1 Pfd. (442 Gramm) betragen, nach 3 Tagen dagegen nahezu 7 1/2 Million Kilogramm, oder ein Gewicht von 148,356 Zentnern erreichen.
 
+Man halte solche Berechnungen nicht für müßige Spielerei; sie allein machen uns die kolossalen Arbeitsleistungen der Bakterien verständlich. Auch stützen sie sich nur auf solche Voraussetzungen, die von der Natur selbst gegeben sind; wäre z. B. die Dauer des Teilungsvorganges in Wirklichkeit auch erheblich länger als die von uns angenommene Stunde, so würden die berechneten Zahlen eben nur ein paar Stunden oder Tage später zutreffen. Wenn freilich in begrenztem Raume niemals jene Werte auch nur annähernd erreicht werden, so liegt dies nicht etwa daran, daß die Vermehrungsfähigkeit der Bakterien hinter der Rechnung zurückbleibt, sondern allein an der beschränkten Nahrung; selbstverständlich erzeugen die Bakterien den Stoff nicht selbst, der ihren Körper bildet, sondern sie nehmen ihn von außen als Nahrung auf, und es könuen sich daher nicht mehr Bakterien bilden, als ihnen Nahrung geboten wird. Dazu kommt, daß die übrigen Pflanzen und Tiere auf dieselben Nährstoffe angewiesen sind, und sich gegenseitig die Existenz streitig machen; jener grausame Kampf ums Dasein, der nach altem Brauch den Unterliegenden zugleich ausrottet, hält die Vermehrung der Bakterien, wie aller übrigen Wesen, in Schranken; nur wo jene die Oberhand behalten, vermögen sie sich ihrer Mitbewerber, die zugleich ihre Todfeinde sind, zu erwehren. Die Preßhefefabriken geben uns aber ein anschauliches Beispiel, zu welch kolossalen Massenverhältnissen sich mikroskopische Körperchen vermehren können, wenn ihnen ausreichende Nahrung geboten, und die Koncurrenz anderer Wesen sorgfältig fern gehalten wird. Der Hefepilz übertrifft die Stäbchenbakterien in Masse und Gewicht etwa um das 160fache*; das Gewicht einer Hefezelle ist also gleich 0.00000025 Milligramm; oder 40 Millionen Hefezellen wiegen 1 Kilogramm. Werden nun in riesigen, mit geigneter Nahrung reichlich erfüllten Bottichen die Hefezellen ungestörter Vermehrung überlassen, so können in großen Fabriken innerhalb 24 Stunden über 100 Zentner Preßhefe erzeugt werden; möglicherweise sind die mehr als 50 Milliarden Zellen, die solche Masse bilden, im Verlauf eines Tages aus einem einzigen Keime hervorgegangen. ---
 
-### 0014
+*) Bildung von Anilinjarben aus Proteinkörpern. Journal für praktische Chemie. 1866.
 
-13
-scheinen, als weiße Flöckchen oder Fäden im Wasser schwimmen
-oder am Boden von Flüssigkeiten sich flockig absetzen. (Fig. 7.)
-Die Bacterien gehören zu den am meisten verbreiteten We-
-sen; man kann sie geradezu allgegenwärtig nennen; sie fehlen
-nirgends weder in der Luft noch im Wasser; sie heften sich der
-Oberfläche aller festen Körper an. Aber massenhafl entwickeln
-sie sich nur da, wo Zersetzung und Verwesung, Gährung und
-Fäulniß stattfindet; bringt man ein Stückchen Fleisch, eine Erbse
-oder irgend einen anderen thierischen oder Pflanzenstoff in Wasser,
-so wird dieses früher oder später trübe, dann milchig; es verliert
-seine Durchsichtigkeit, weil sich in ihm die Bacterien in den oben
-berechneten Verhältnissen vermehren, bis diese fast ohne Zwischeu-
-raum das Wasser erfüllen. Gleichzeitig schreitet die Fäulniß im-
-mer weiter fort, unter Entwickelung verschiedener, meist sehr
-übelriechender chemischer Verbindungen.
-Nach einiger Zeit nimmt die Trübung ab; das Wasser
-wird wieder klar und geruchlos; der organische Stoff ist von
-den Bacterien verzehrt worden; diese hören nun auf, sich weiter
-zu theilen, und häufen sich am Boden unbeweglich als weißer
-Niederschlag an; wird neue Substanz zum Faulen zugefügt, so
-beginnt auch die Vermehrung der Bacterien aufs Neue.
-Auch ohne Wasser in feuchter Luft vermehren sich die Bac-
-terien, sobald sie in Zersetzung begriffene Stoffe finden; sie über-
-ziehen im dumpfigen Speiseschrank die gekochten Kartoffeln, den
-Käse und andere Speisen mit schleimigen, farblosen oder gefärb-
-ten Ueberzügen, die selbst mit bloßem Auge von den schneeweißen
-mit bläulichem Sporenpulver überstreuten Spinnweben der Schim-
-melpilze sich leicht unterscheiden; auch der weißliche Schleim, der
-die Zähne überzieht, wird großentheils von Bacterien gebildet.
-Woher kömmt es nun aber, daß sich stets Bacterien in
-faulenden Stoffen entwickeln? In welchem Verhältniß steher
-(713)
+Wir kennen bei den Bakterien bis jetzt keine andere Vermehrung als die eben geschilderte Zweiteilung; die Erzeugung von Eiern oder Sporen, wie sie bei der Fortpflanzung aller übrigen Pflanzen und Tiere gebildet werden, ist bei diesen einfachsten Wesen noch nicht beobachtet. Nach der Teilung entfernen sich entweder die Bakterienhälften, und schwärmen als selbstständige Wesen davon; oder sie bleiben kettenartig an einander gereiht und bilden dann längere oder kürzere Fäden; in andern Fällen bleiben ganze Generationen in Kolonien, Nestern oder Ballen vereint, oder sie verbinden sich zu Haufen, welche schon dem bloßen Auge wie farblose oder auch farbige Gallert- oder Schleimmassen erscheinen, als weiße Flöckchen oder Fäden im Wasser schwimmen oder am Boden von Flüssigkeiten sich flockig absetzen. (Fig. 7.)
 
+Die Bakterien gehören zu den am meisten verbreiteten Wesen; man kann sie geradezu allgegenwärtig nennen; sie fehlen nirgends weder in der Luft noch im Wasser; sie heften sich der Oberfläche aller festen Körper an. Aber massenhaft entwickeln sie sich nur da, wo Zersetzung und Verwesung, Gährung und Fäulniß stattfindet; bringt man ein Stückchen Fleisch, eine Erbse oder irgend einen anderen tierischen oder Pflanzenstoff in Wasser, so wird dieses früher oder später trübe, dann milchig; es verliert seine Durchsichtigkeit, weil sich in ihm die Bakterien in den oben berechneten Verhältnissen vermehren, bis diese fast ohne Zwischenraum das Wasser erfüllen. Gleichzeitig schreitet die Fäulniß immer weiter fort, unter Entwickelung verschiedener, meist sehr übelriechender chemischer Verbindungen.
 
-### 0015
+Nach einiger Zeit nimmt die Trübung ab; das Wasser wird wieder klar und geruchlos; der organische Stoff ist von den Bakterien verzehrt worden; diese hören nun auf, sich weiter zu teilen, und häufen sich am Boden unbeweglich als weißer Niederschlag an; wird neue Substanz zum Faulen zugefügt, so beginnt auch die Vermehrung der Bakterien aufs Neue.
 
-14
-die Bacterien zur Fäulniß? Auf diese Fragen sind verschiedene
-Antworten gegeben worden.
-Die Einen sagen: Im Körper lebender Tiere und Pflanzen
-find die chemischen Elemente zu eigenthümlichen, sogenannten
-organischen Verbindungen zusammengefügt. Der Tod löst das
-Band, vermittelst dessen die Lebenskraft die Elemente verknüpft;
-diese überlassen sich dem freien Spiel ihrer Anziehungskräfte, und
-ordnen sich, diesen folgend, zu neuen einfacheren Verbindungen.
-Gleichzeitig sucht der Sauerstoff der Luft, der zu einzelnen Stoffen des
-todten Körpers lebhafte Verwandtschaft besitzt, sich mit diesen zu
-verbinden; so entstehen Entmischungen, Zersetzungen und Neubildun-
-gen, durch welche die Form und Zusammensetzung des todten
-Körpers gänzlich zerstört wird; diese Vorgänge sind es, welche
-wir als Fäulniß und Verwesung bezeichnen; es sind rein che-
-mische Processe, der Verbrennung, der Verwitterung, dem Rosten
-der Metalle vergleichbar. Die Bacterien finden reichliche Nah-
-rung in den bei der Fäulniß sich bildenden Verbindungen, wäh-
-rend sie sich von lebendigen Wesen nicht ernähren können; kein
-Wunder, daß ihre Keime, wenn sie auch anfänglich nur verein-
-zelt Zutritt gefunden, sich bei der Fäulniß so außerordentlich
-vermehren.
-Wäre diese Auffassung richtig, so wären die Bacterien nur
-zufällige Begleiter der Fäulniß; es müßte Fäulniß todter Körper
-unter den dafür geeigneten Bedingungen auch dann eintreten,
-wenn die Bacterien von denselben fern gehalten werden.
-Wenn wir Versuche anstellen, um die Richtigkeit dieser Ver-
-muthung zu prüfen, so ist diese Bedingung freilich nicht leicht zu
-erfüllen; bringen wir zum Beispiel Theile oder Säfte eines Thie-
-res oder einer Pflanze, Fleisch, Blut, Harn, Milch oder Stücke
-von Blättern, Früchten, Samen in ein Glaskölbchen, so ist stets
-zu vermuthen, daß gleichzeitig auch einige der so außerordentlich
-(714)
+Auch ohne Wasser in feuchter Luft vermehren sich die Bakterien, sobald sie in Zersetzung begriffene Stoffe finden; sie überziehen im dumpfigen Speiseschrank die gekochten Kartoffeln, den Käse und andere Speisen mit schleimigen, farblosen oder gefärbten Überzügen, die selbst mit bloßem Auge von den schneeweißen mit bläulichem Sporenpulver überstreuten Spinnweben der Schimmelpilze sich leicht unterscheiden; auch der weißliche Schleim, der die Zähne überzieht, wird großenteils von Bakterien gebildet.
 
+Woher kömmt es nun aber, daß sich stets Bakterien in faulenden Stoffen entwickeln? In welchem Verhältniß steher die Bakterien zur Fäulniß? Auf diese Fragen sind verschiedene Antworten gegeben worden.
 
-### 0016
+Die Einen sagen: Im Körper lebender Tiere und Pflanzen find die chemischen Elemente zu eigentümlichen, sogenannten organischen Verbindungen zusammengefügt. Der Tod löst das Band, vermittelst dessen die Lebenskraft die Elemente verknüpft; diese überlassen sich dem freien Spiel ihrer Anziehungskräfte, und ordnen sich, diesen folgend, zu neuen einfacheren Verbindungen. Gleichzeitig sucht der Sauerstoff der Luft, der zu einzelnen Stoffen des todten Körpers lebhafte Verwandtschaft besitzt, sich mit diesen zu verbinden; so entstehen Entmischungen, Zersetzungen und Neubildungen, durch welche die Form und Zusammensetzung des todten Körpers gänzlich zerstört wird; diese Vorgänge sind es, welche wir als Fäulniß und Verwesung bezeichnen; es sind rein chemische Processe, der Verbrennung, der Verwitterung, dem Rosten der Metalle vergleichbar. Die Bakterien finden reichliche Nahrung in den bei der Fäulniß sich bildenden Verbindungen, während sie sich von lebendigen Wesen nicht ernähren können; kein Wunder, daß ihre Keime, wenn sie auch anfänglich nur vereinzelt Zutritt gefunden, sich bei der Fäulniß so außerordentlich vermehren.
 
-15
-verbreiteten Bacterien mit eingeführt werden, und diese Ver-
-muthung wird fast zur Gewißheit, wenn wir in das Kölbchen
-noch etwas Wasser thun, da alles Wasser nachweisbar Bacterien-
-keime enthält. Es giebt aber ein einfaches Mittel, alle Bacterien
-in dem Glaskölbchen zu beseitigen; man braucht dasselbe nur eine
-Zeit lang zu kochen. Denn so wenig, wie irgend ein anderes
-Tier oder Pflanze, so wenig widerstehen die Bacterien der
-Siedhitze; neuere Versuche haben sogar gezeigt, daß schon eine
-Erwärmung auf 600 C. die Bacterien tödtet, nur muß diese
-Temperatur lange genug einwirken, um sicher zu gehen, daß die
-ganze Masse gleichmäßig durchdrungen und nicht einzelne Bac-
-terien der Vernichtung entgangen sind. Durch die Erhitzung al-
-lein wird die Fäulniß nicht aufgehoben; die Erfahrung lehrt,
-daß gekochtes Fleisch, Eier, Milch u. s. w. zwar weit langsamer,
-aber schließlich eben so gut faulen wie rohe.
-Hat man durch Erhitzung die Bacterien im Glaskölbchen
-getödtet, so muß man noch dafür sorgen, daß nicht neue Keime
-aus der Luft in das Innere desselben hineingerathen. Für diesen
-Zweckschmolz im vorigen Jahrhundert ein durch scharfsinnige Experi-
-mente berühmter Naturbeobachter, der italienische Abt Spallauzani,
-den Hals des Kölbchens während des Kochens zu; (Fig. 8.) das Er-
-gebniß war, daß die im Kölbchen eingeschlossenen Tier- und Pflan-
-zenstoffe sich für alle Zeit unverändert hielten ohne jemals zu faulen.
-Der französische Graf Appert be-
-nutzte am Anfang unseres Jahrhunderts
-diese Methode, um Fleisch, Gemüse
-und andere Nahrungsmittel aufzube-
-,
-() (e fga wahren, indem er dieselben in Blech-
-büchsen, die mit einer kleinen Oeffnung
-Fig. 10. Fig. ". Fig. s. versehen, einschloß, sodann im Wasser-
-bad ein Paar Stunden kochte und während des Kochens die
-(71)
+Wäre diese Auffassung richtig, so wären die Bakterien nur zufällige Begleiter der Fäulniß; es müßte Fäulniß todter Körper unter den dafür geeigneten Bedingungen auch dann eintreten, wenn die Bakterien von denselben fern gehalten werden.
 
+Wenn wir Versuche anstellen, um die Richtigkeit dieser Vermutung zu prüfen, so ist diese Bedingung freilich nicht leicht zu erfüllen; bringen wir zum Beispiel Teile oder Säfte eines Tieres oder einer Pflanze, Fleisch, Blut, Harn, Milch oder Stücke von Blättern, Früchten, Samen in ein Glaskölbchen, so ist stets zu vermuten, daß gleichzeitig auch einige der so außerordentlich verbreiteten Bakterien mit eingeführt werden, und diese Vermutung wird fast zur Gewißheit, wenn wir in das Kölbchen noch etwas Wasser thun, da alles Wasser nachweisbar Bakterienkeime entält. Es giebt aber ein einfaches Mittel, alle Bakterien in dem Glaskölbchen zu beseitigen; man braucht dasselbe nur eine Zeit lang zu kochen. Denn so wenig, wie irgend ein anderes Tier oder Pflanze, so wenig widerstehen die Bakterien der Siedhitze; neuere Versuche haben sogar gezeigt, daß schon eine Erwärmung auf 60° C. die Bakterien tödtet, nur muß diese Temperatur lange genug einwirken, um sicher zu gehen, daß die ganze Masse gleichmäßig durchdrungen und nicht einzelne Bakterien der Vernichtung entgangen sind. Durch die Erhitzung allein wird die Fäulniß nicht aufgehoben; die Erfahrung lehrt, daß gekochtes Fleisch, Eier, Milch u. s. w. zwar weit langsamer, aber schließlich eben so gut faulen wie rohe.
 
-### 0017
+Hat man durch Erhitzung die Bakterien im Glaskölbchen getödtet, so muß man noch dafür sorgen, daß nicht neue Keime aus der Luft in das Innere desselben hineingerathen. Für diesen Zweck schmolz im vorigen Jahrhundert ein durch scharfsinnige Experimente berühmter Naturbeobachter, der italienische Abt Spallanzani, den Hals des Kölbchens während des Kochens zu; (Fig. 8.) das Ergebniß war, daß die im Kölbchen eingeschlossenen Tier- und Pflanzenstoffe sich für alle Zeit unverändert hielten ohne jemals zu faulen.
 
-16
-Oeffnung zulöthete. Iede Hausfrau weiß, daß sich in Blech-
-büchsen die Speisen Jahrelang halten, ohne zu verderben; die
-Industrie beschäftigt sich mit dem Einlegen von Nahrungsmitteln
-im Großen nach dieser Methode; erhalten wir doch durch die-
-selbe sogar Rindfleifch aus Australien, Hummern aus Amerika,
-die vielleicht Jahre alt, beim Gebrauch sich wie frische verhielten.
-Man hat nun freilich eingewendet: der Grund, daß die
-in den Spallanzanischen Kölbchen und den Appert'schen Blech-
-büchsen eingeschlossenen Stoffe nicht faulen, ist nicht der, weil
-in ihnen keine Bacterien, sondern weil in ihnen kein Sauer-
-stoff anwesend ist; denn es wird ja beim Kochen die Luft
-ausgetrieben und der Zutritt neuen Sauerstoffs durch das
-Zulöthen unmöglich. Um diesen Einwand zu widerlegen,
-müßte man in die hermetisch verschlossenen Gefäße Luft zulassen,
-die keine Bacterien enthält. Zu diesem Zweck änderte Dr.
-Schwann 1837 den Spallanzani'schen Versuch so ab, daß er den
-Kolbenhals erst zuschmolz, nachdem in denselben Luft eingetreten,
-welche durch ein glühendes Rohr gestrichen war; in diesem wur-
-den natürlich alle lebendigen Keime zerstört.
-Schröder und Dusch gaben 1854 ein bequemeres Mittel;
-sie verstopften den offenen Hals des Kölbchens mit gereinigter
-Watte; indem die Luft in das gekochte Kölbchen beim Abkühlen
-desselben eindrang, setzte sie zwischen den Fasern der Baumwolle,
-wie in einem Filter, alle Keime ab. (Fig. B.)
-Endlich ersann Pasteur 1862 ein noch einfacheres Verfahren,
-er bog den in eine Spitze ausgezogenen Kolbenhals hakenförmig
-nach unten, ohne ihn zuzuschmelzen; die in der Luft enthaltenen
-Keime, welche der Schwere folgend, sich gewöhnlich in offenen
-Gefäßen absetzen, konnten nunmehr nicht ins Innere des Kölb-
-chens gelangen. (Fig. 10.)
-Das Ergebniß aller drei Verfahren ist immer das nämliche:
+[Fig. 8.]()
 
+[Fig. 9.]()
 
-### 0018
+[Fig. 10.]()
 
-17
-die im Kölbchen eingeschlossenen Stoffe gerathen niemals in Fäul-
-niß; gleichwohl fehlt es ihnen nicht an Luft; nur die Bacterien
-finden keinen Eingang. Aus diesen und vielen ähnlichen Ver-
-suchen läßt sich mit der größten Sicherheit schließen: daß wo
-auch alle übrigen Bedingungen der Fäulniß gegeben sind, diese
-doch nicht stattfindet, wenn keine Bacterien anwesend sind; da-
-gegen beginnt die Fäulniß augenblicklich, sobald Bacterien ab-
-sichtlich oder unabsichtlich zugesetzt werden, sei es auch in gering-
-ster Zahl; die Fäulniß schreitet in demselben Maße fort, in dem
-sich die Bacterien vermehren; alle Umstände, welche die Vermeh-
-rung der Bacterien begünstigen, beschleunigen die Fäulniß; alle
-Bedingungen, welche deren Entwickelung aufhalten, verlangsamen
-die Fäulniß; alle Mittel, welche Bacterien tödten, heben auch die
-Fäulniß auf; umgekehrt hört die Vermehrung der Bacterien auf,
-sobald alle fäulnißfähige Substanz zerstört ist.
+Der französische Graf Appert benutzte am Anfang unseres Jahrhunderts diese Methode, um Fleisch, Gemüse und andere Nahrungsmittel aufzubewahren, indem er dieselben in Blechbüchsen, die mit einer kleinen Öffnung versehen, einschloß, sodann im Wasserbad ein Paar Stunden kochte und während des Kochens die Öffnung zulöthete. Jede Hausfrau weiß, daß sich in Blechbüchsen die Speisen Jahrelang halten, ohne zu verderben; die Industrie beschäftigt sich mit dem Einlegen von Nahrungsmitteln im Großen nach dieser Methode; erhalten wir doch durch dieselbe sogar Rindfleifch aus Australien, Hummern aus Amerika, die vielleicht Jahre alt, beim Gebrauch sich wie frische verhielten.
+
+Man hat nun freilich eingewendet: der Grund, daß die in den Spallanzanischen Kölbchen und den Appert'schen Blechbüchsen eingeschlossenen Stoffe nicht faulen, ist nicht der, weil in ihnen keine Bakterien, sondern weil in ihnen kein Sauerstoff anwesend ist; denn es wird ja beim Kochen die Luft ausgetrieben und der Zutritt neuen Sauerstoffs durch das Zulöthen unmöglich. Um diesen Einwand zu widerlegen, müßte man in die hermetisch verschlossenen Gefäße Luft zulassen, die keine Bakterien enthält. Zu diesem Zweck änderte Dr. Schwann 1837 den Spallanzani'schen Versuch so ab, daß er den Kolbenhals erst zuschmolz, nachdem in denselben Luft eingetreten, welche durch ein glühendes Rohr gestrichen war; in diesem wurden natürlich alle lebendigen Keime zerstört.
+
+Schröder und Dusch gaben 1854 ein bequemeres Mittel; sie verstopften den offenen Hals des Kölbchens mit gereinigter Watte; indem die Luft in das gekochte Kölbchen beim Abkühlen desselben eindrang, setzte sie zwischen den Fasern der Baumwolle, wie in einem Filter, alle Keime ab. (Fig. 9.)
+
+Endlich ersann Pasteur 1862 ein noch einfacheres Verfahren, er bog den in eine Spitze ausgezogenen Kolbenhals hakenförmig nach unten, ohne ihn zuzuschmelzen; die in der Luft enthaltenen Keime, welche der Schwere folgend, sich gewöhnlich in offenen Gefäßen absetzen, konnten nunmehr nicht ins Innere des Kölbchens gelangen. (Fig. 10.)
+
+Das Ergebniß aller drei Verfahren ist immer das nämliche: die im Kölbchen eingeschlossenen Stoffe geraten niemals in Fäulniß; gleichwohl fehlt es ihnen nicht an Luft; nur die Bakterien finden keinen Eingang. Aus diesen und vielen ähnlichen Versuchen läßt sich mit der größten Sicherheit schließen: daß wo auch alle übrigen Bedingungen der Fäulniß gegeben sind, diese doch nicht stattfindet, wenn keine Bakterien anwesend sind; dagegen beginnt die Fäulniß augenblicklich, sobald Bakterien absichtlich oder unabsichtlich zugesetzt werden, sei es auch in geringster Zahl; die Fäulniß schreitet in demselben Maße fort, in dem sich die Bakterien vermehren; alle Umstände, welche die Vermehrung der Bakterien begünstigen, beschleunigen die Fäulniß; alle Bedingungen, welche deren Entwickelung aufhalten, verlangsamen die Fäulniß; alle Mittel, welche Bakterien tödten, heben auch die Fäulniß auf; umgekehrt hört die Vermehrung der Bakterien auf, sobald alle fäulnißfähige Substanz zerstört ist.
+
 Also sind die Bacterien nicht die zufälligen Begleiter, son-
 dern sie sind die Ursache der Fäulniß; Fäulniß ist ein von
 Bacterien erregter chemischer Proceß. Nicht der Tod,
