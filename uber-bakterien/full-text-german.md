@@ -40,19 +40,19 @@ Die Gestalt der Bakterien gleicht bald einer Kugel, oder einem Ei, bald einem ku
 
 *) Nur bei den größten Spirillen (Fig. 5) sind neuerdings bewegliche Geißeln entdeckt worden, welche Wirbel im Wasser erregen und bei den Bewegungen mittätig sind.
 
-[Fig. 1. --- _Micrococcus._]()
+[Fig. 1. --- _Micrococcus._](https://cdn.solaranamnesis.com/FerdinandCohn/fig01.png)
 
-[Fig. 2. --- _Bacterium Termo._]()
+[Fig. 2. --- _Bacterium Termo._](https://cdn.solaranamnesis.com/FerdinandCohn/fig02.png)
 
-[Fig. 3. --- _Bacillus subtilis._]()
+[Fig. 3. --- _Bacillus subtilis._](https://cdn.solaranamnesis.com/FerdinandCohn/fig03.png)
 
-[Fig. 4. --- _Vibrio Rugula._]()
+[Fig. 4. --- _Vibrio Rugula._](https://cdn.solaranamnesis.com/FerdinandCohn/fig04.png)
 
-[Fig. 5. --- _Spirillum volutans._]()
+[Fig. 5. --- _Spirillum volutans._](https://cdn.solaranamnesis.com/FerdinandCohn/fig05.png)
 
-[Fig. 6. --- _Spirochaete plicatilis._]()
+[Fig. 6. --- _Spirochaete plicatilis._](https://cdn.solaranamnesis.com/FerdinandCohn/fig06.png)
 
-[Fig. 7. --- Gallert von Kugel- und Stäbchenbakterien.]()
+[Fig. 7. --- Gallert von Kugel- und Stäbchenbakterien.](https://cdn.solaranamnesis.com/FerdinandCohn/fig07.png)
 
 Fast alle Bakterien besitzen zwei verschiedene Lebenszustände, einen beweglichen und einen ruhenden. Unter gewissen Bedingungen sind sie außerordentlich lebhaft bewegt und wenn sie in dichtem Gewimmel den Wassertropfen erfüllen, bieten die nach allen Richtungen durcheinander fahrenden Bakterien einen überaus fesselnden Anblick, den man mit einem Mückenschwarm oder einem Ameisenhaufen vergleichen kann. Die Bakterien schwimmen hurtig vorwärts, dann ohne umzukehren ein Stück zurück; oder sie ziehen in Bogenlinien dahin, bald langsam zitternd und wackelnd, jetzt in plötzlichem Sprunge raketenartig fortschießend, bald darauf der Quere nachgedreht wie ein Kreisel, oder längere Zeit ruhend, um plötzlich wie der Blitz auf und davon zu fahren. Die längeren Fadenbakterien biegen ihren Körper beim Schwimmen, bald schwerfällig, bald rasch und gewandt, als bemühten sie sich durch Hindernisse ihre Bahn zu finden, wie ein Fisch, der zwischen Wasserpflanzen seinen Weg sucht. Dann stehen sie eine Zeit lang still, als müssten sie eine Weile ausruhen; plötzlich zittert der kleine Faden und schwimmt zurück, um bald darauf wieder vorwärtszusteuern. Mit all diesen Bewegungen ist stets eine rasche Achsendrehung verbunden, wie bei einer in der Mutter sich bewegenden Schraube; dies wird besonders deutlich, wenn die Stäbchen geknickt sind; dann sieht man sie gleichsam taumelnd sich umherwälzen. Wenn die wellenförmigen Vibrionen und die schraubenförmigen Spirillen sich rasch um ihre Achse drehen, so erregen sie eine eigentümliche Sinnestäuschung, als ob sie sich aalgleich schlängelten, obwohl sie völlig steif sind; oft zucken sie meteorartig hin und her, dass sie dem Beobachter kaum zum Bewusstsein kommen, oder rollen rasch durch das Gesichtsfeld; während sie jetzt an einem Ende sich festhaltend, sich mit dem andern im Kreise bewegen, gleich einer um einen Faden gedrehten Schleuder, sieht man sie bald darauf sich langsam durch das Wasser schrauben.
 
@@ -94,11 +94,11 @@ Wenn wir Versuche anstellen, um die Richtigkeit dieser Vermutung zu prüfen, so 
 
 Hat man durch Erhitzung die Bakterien im Glaskölbchen getötet, so muss man noch dafür sorgen, dass nicht neue Keime aus der Luft in das Innere desselben hineingeraten. Für diesen Zweck schmolz im vorigen Jahrhundert ein durch scharfsinnige Experimente berühmter Naturbeobachter, der italienische Abt Spallanzani, den Hals des Kölbchens während des Kochens zu; (Fig. 8.) das Ergebnis war, dass die im Kölbchen eingeschlossenen Tier- und Pflanzenstoffe sich für alle Zeit unverändert hielten ohne jemals zu faulen.
 
-[Fig. 8.]()
+[Fig. 8.](https://cdn.solaranamnesis.com/FerdinandCohn/fig08.png)
 
-[Fig. 9.]()
+[Fig. 9.](https://cdn.solaranamnesis.com/FerdinandCohn/fig09.png)
 
-[Fig. 10.]()
+[Fig. 10.](https://cdn.solaranamnesis.com/FerdinandCohn/fig10.png)
 
 Der französische Graf Appert benutzte am Anfang unseres Jahrhunderts diese Methode, um Fleisch, Gemüse und andere Nahrungsmittel aufzubewahren, indem er dieselben in Blechbüchsen, die mit einer kleinen Öffnung versehen, einschloss, sodann im Wasserbad ein Paar Stunden kochte und während des Kochens die Öffnung zulötete. Jede Hausfrau weiß, dass sich in Blechbüchsen die Speisen Jahrelang halten, ohne zu verderben; die Industrie beschäftigt sich mit dem Einlegen von Nahrungsmitteln im Großen nach dieser Methode; erhalten wir doch durch dieselbe sogar Rindfleisch aus Australien, Hummern aus Amerika, die vielleicht Jahre alt, beim Gebrauch sich wie frische verhielten.
 
